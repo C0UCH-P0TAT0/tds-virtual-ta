@@ -6,7 +6,7 @@ import json
 from bs4 import BeautifulSoup
 
 # Paste your valid `_t` cookie here (DO NOT decode or change it)
-SESSION_COOKIE = "1VZD4hjcklRGcDOdH%2BkfWGRhVIf0embZI1OuDnsRlI753Oz8EhrV1131PbMn5yQ%2FxZ%2BbdWmH0gd8kYal%2FsmFzK8B3yvPhZ7DxmNq14MwwoAaPH8p13hyPRUHVq6D7RrdHpYB414qVPFl1F01Gw%2BWtg%2FKAR7w7OJcih8hfF0kVuVH1XLmpLhYDR66w4GPwHgiJ37Y%2FHT43ID%2F7%2Bsc1rX8DKWCBiyCgafW8on1hGA4EZq1vcUHb2Xg1UI8pVG4gP%2Be%2BS%2BNTNrvmKDU16vdCCIZNOgJAVCtYjUsXokhT444hnJAGO5x9MM4Mmkvq9BtREuH6kS6Wg%3D%3D--3zM2thc8s9G7%2BUBZ--uw6%2BAxqMgnNB6DGg%2FcVgyw%3D%3D"
+SESSION_COOKIE = "kekjyH4JIScIRob%2ByFL3sShB%2FiAalEKU%2F%2Bv%2Bv%2FuPM66EdlYb0aZMavmim7vqNGxJlKg3X8A%2F9JJ5YBFVxmDM2uWACGZy9YXs%2FLrYSqF0ueUisjsRYQMDN7O6GuMSLA87S6T9z0tcV1qJ852dzaVoZHGdvbiA2LDLf6fi1t9KbIxz82iE0aiY41HsSSJ4wvqu5%2BFKXUwMNOgOL7A1a2Lc%2FcoxV0%2FFxRMF2J2QHn%2FbGMj2jSmss3wdNPsXrC%2Fud4LMO8flWlqNaKCNuVAlKV92O1G%2BZkS1SZfrSARqnHw5kVU%2BXRMFhLk2nPplYtqsFFKbZt7JfQ%3D%3D--WroyNsPvcLu3fFyl--YC7WJuAk%2BRyyLzBj31uETQ%3D%3D"
 
 BASE_URL = "https://discourse.onlinedegree.iitm.ac.in"
 CATEGORY_URL = f"{BASE_URL}/c/courses/tds-kb/34.json"
@@ -64,12 +64,20 @@ while True:
             try:
                 post_r = requests.get(topic_url, headers=headers, cookies=cookies)
                 post_json = post_r.json()
-                first_post = post_json.get("post_stream", {}).get("posts", [])[0]
-                content_html = first_post.get("cooked", "")
+                posts = post_json.get("post_stream", {}).get("posts", [])
+                
+                all_text = []
+                all_html = []
 
-                # Parse and clean HTML to extract readable text
-                soup = BeautifulSoup(content_html, "html.parser")
-                content_text = soup.get_text(separator="\n").strip()
+                for post in posts:
+                    html = post.get("cooked", "")
+                    soup = BeautifulSoup(html, "html.parser")
+                    text = soup.get_text(separator="\n").strip()
+                    all_text.append(text)
+                    all_html.append(html)
+
+                content_text = "\n\n---\n\n".join(all_text)
+                content_html = "\n\n<hr/>\n\n".join(all_html)
 
             except Exception as e:
                 print(f"⚠️ Failed to fetch or parse content for topic ID {topic['id']}: {e}")

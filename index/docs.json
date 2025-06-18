@@ -1,0 +1,582 @@
+[
+  {
+    "text": "Please post any questions related to \nGraded Assignment 3 - Large Language Models\n.\n\n\n\n\nImportant Instruction\n\n\nPlease use markdown code formatting (fenced code blocks) when sharing code in Discourse posts. This makes the code much easier to read and differentiate from non-code text. It also makes it easier for people to copy code snippets and run it themselves. See below code for example\n\n\nping exam.sanand.workers.dev\n\nPinging exam.sanand.workers.dev [104.21.31.149] with 32 bytes of data:\nReply from 104.21.31.149: bytes=32 time=9ms TTL=58\nReply from 104.21.31.149: bytes=32 time=8ms TTL=58\nReply from 104.21.31.149: bytes=32 time=8ms TTL=58\nReply from 104.21.31.149: bytes=32 time=9ms TTL=58\n\nPing statistics for 104.21.31.149:\n    Packets: Sent = 4, Received = 4, Lost = 0 (0% loss),\nApproximate round trip times in milli-seconds:\n    Minimum = 8ms, Maximum = 9ms, Average = 8ms\n\n\n\nVisit this link for more details: \nExtended Syntax | Markdown Guide\n.\n\n\nA friendly suggestion: kindly go through \nDiscourse Docs\n! \n\n\n\n\nDeadline: \nSunday, February 2, 2025 6:29 PM\n\n\n@carlton\n \n@Jivraj\n \n@Saransh_Saini",
+    "url": "https://discourse.onlinedegree.iitm.ac.in/t/ga3-large-language-models-discussion-thread-tds-jan-2025/163247",
+    "title": "GA3 - Large Language Models - Discussion Thread [TDS Jan 2025]"
+  },
+  {
+    "text": "@carlton\n \n@s.anand\n\ndear sir\n\ni have taken tds in this term. after the first assignment there was no checkbox provided to any graded assignment .for this reason i just saved the assignment at the portal link .and now after the deadline its showing my assignment had not been submitted. pls do something please do it fast.",
+    "url": "https://discourse.onlinedegree.iitm.ac.in/t/tds-assignment-is-not-submitting/166189",
+    "title": "Tds: assignment is not submitting"
+  },
+  {
+    "text": "Please post any questions related to \nGraded Assignment 1 - Development Tools\n.\n\n\n\n\nImportant Instruction\n\n\nPlease use markdown code formatting (fenced code blocks) when sharing code in Discourse posts. This makes the code much easier to read and differentiate from non-code text. It also makes it easier for people to copy code snippets and run it themselves. Visit this link for more details: \nExtended Syntax | Markdown Guide\n.\n\n\nA friendly suggestion: kindly go through \nDiscourse Docs\n! \n\n\n\n\nDeadline: 26 Jan 2025, midnight IST\n\n\n@carlton\n \n@Jivraj\n Please keep an eye on this thread for support.",
+    "url": "https://discourse.onlinedegree.iitm.ac.in/t/ga1-development-tools-discussion-thread-tds-jan-2025/161083",
+    "title": "GA1 - Development Tools - Discussion Thread [TDS Jan 2025]"
+  },
+  {
+    "text": "Mail I received Yesterday:\n\n\nScreenshot from 2025-04-01 09-01-07\n1174\u00d7451 54.2 KB\n\n\nPrevious Correct Evaluation Mail:\n\n\nScreenshot from 2025-04-01 09-02-35\n1687\u00d7650 144 KB\n\n\nGood Morning Sir,\n\n\nThis is my github repo: \nGitHub - kohliaryan/TDS_Project_1\n ()You can verify that it is public, MIT License is present and Dockerfile is also present.)\n\n\nI also got a mail 2 days ago in which everything is mentioned correctly but the mail I got yesterday worry me.  Sir, I have worked really hard for project 1. Please look into this matter.\n\n\n@carlton",
+    "url": "https://discourse.onlinedegree.iitm.ac.in/t/project-1-evaluation-second-mail-is-not-correct-and-reports-files-missing-while-they-are-present/171477",
+    "title": "Project 1 Evaluation second mail is not correct and reports files missing while they are present"
+  },
+  {
+    "text": "Please post any questions related to \nProject 2 - TDS Solver\n.\n\n\nDeadline: \nMonday, March 31, 2025 6:29 PM",
+    "url": "https://discourse.onlinedegree.iitm.ac.in/t/project-2-tds-solver-discussion-thread/169029",
+    "title": "Project 2 - TDS Solver - Discussion Thread"
+  },
+  {
+    "text": "Please post any discrepancies related to project1.\n\n\n@carlton\n\n\nWho were evaluated? How did we decide what to evaluate?\n\n\nAll the image ids we evaluated were what \nyou\n submitted to us. This is the list of docker repos that was given to us by \n@s.anand\n as the official list that met all the pre-requisites of Project 1. Therefore we will only evaluate those on this list who are eligible for evaluation with the repos \nyou\n gave us.\n\n\nFor clarity. Your docker repo gets a unique id every time it is changed. We will ONLY evaluate the image id which was present at the time of the docker repo being pulled. This acts as a time stamped frozen version of your repo. No other image id will be evaluated.\n\n\nHow to fix bugs in our scripts\n\n\nCreate Pull requests to \nJivraj-18/tds-jan25-project1\n .\n\n\nDocker Image Architecture Issue Report\n\n\nIf your Docker image was run on the wrong architecture, please fill out this form:\n\n\nSubmit Report\n\n\nBug fixes\n\n\nIf you find bugs in our evaluation scripts, you might benefit from more marks because of the bug fix. So it is in your interest to look through our scripts and logs and identify bugs or anomalies. You might just go from 0 to heros.\n\n\nKind regards,\n\nTDS Team",
+    "url": "https://discourse.onlinedegree.iitm.ac.in/t/tds-official-project1-discrepencies/171141",
+    "title": "Tds-official-Project1-discrepencies"
+  },
+  {
+    "text": "@carlton\n \n@Jivraj\n \n@Saransh_Saini\n Greetings sir!\n\nSir, I have a query about the criteria for earning bonus marks in the TDS course. I\u2019ve noticed that some students who completed GA7 are receiving bonus marks for extra peer reviews (5 bonus marks is quite significant as it improves grades as well). However, what about those of us who completed all 6 assignments but missed GA7 for some reason?\n\nAs the course is quite challenging due to the vast syllabus, bonus marks would be really helpful for many of us. Could you kindly clarify the situation?\n\n\nThank you and Regards\n\nAkshit",
+    "url": "https://discourse.onlinedegree.iitm.ac.in/t/bonus-marks-in-tds-for-jan-25/172246",
+    "title": "Bonus Marks in TDS for Jan 25"
+  },
+  {
+    "text": "Even if I pass in end term TDS, Can I repeat the course in next term because I missed project1 and my CGPA will go down because of it?\n\n\nThis is my last term of diploma. So, can I take 1 diploma course and rest degree courses in next term?",
+    "url": "https://discourse.onlinedegree.iitm.ac.in/t/repeat-course/171798",
+    "title": "Repeat course"
+  },
+  {
+    "text": "Mock Exam: Tools in Data Science\n\n\nThe end term and the mock has been created using the TDS GPT Assistant. Since the GPT has ALL the GAs, Course Content Modules, Live Session Transcriptions (its works like RAG), it is really able to help you prepare for the end term. Use it!\n\n\nTherefore you can also create your own mocks.\n\n\n\n\n\n\n\n\nChatGPT\n\n\n\n\n\n\nChatGPT - IITM TDS Teaching Assistant\n\n\nTA for IIT Madras' Data Science course, guiding students with questions.\n\n\n\n\n\n\n\n\n\n\n\n\nBelow are variant questions across various topics relevant to the course. These questions have been curated from the topics areas we are focussing on. Therefore it will be very similar in content to the end term.\n\n\n\n\nWhat it does not contain: Scenario based questions. These are complex to construct. We will address the topics for these questions in the live session.\n\n\n\n\n\n\nLLMs\n\n\nPandas\n\n\nGit, Docker, Bash\n\n\n\n\n\n\nQ1: HTTP Method Semantics\n\n\nWhich HTTP method is \nnot idempotent\n, meaning repeated identical requests \nmay\n result in different outcomes each time?\n\n\n\n\nA. GET\n\n\nB. PUT\n\n\nC. POST\n\n\nD. DELETE\n\n\n\n\nAnswer\n: C. POST\n\n\nQ2: IDE Features\n\n\nWhich feature is \nleast likely\n to be found in a standard code editor or IDE?\n\n\n\n\nA. Code formatting tools\n\n\nB. Integrated terminal\n\n\nC. Git integration\n\n\nD. Cloud hosting of Docker containers\n\n\n\n\nAnswer\n: D. Cloud hosting of Docker containers\n\n\nQ3: Pandas Summary Methods\n\n\nYou have a DataFrame with a \nregion\n column. To get a quick summary of how many entries are in each region, which method is most useful?\n\n\n\n\nA. df.describe()\n\n\nB. df[\u201cregion\u201d].value_counts()\n\n\nC. df.count()\n\n\nD. df.groupby(\u201cregion\u201d).sum()\n\n\n\n\nAnswer\n: B. df[\u201cregion\u201d].value_counts()\n\n\nQ4: Python Exception Scope\n\n\nYou want to safely open a file, handle any errors, and ensure the file is always closed in Python. Which pattern should you use?\n\n\n\n\nA. \ntry: open(...)\n then \nfinally: close()\n\n\nB. \nopen()\n and then \nexcept\n\n\nC. \nopen()\n and then \nraise\n\n\nD. Use \nwith open(...) as f:\n block\n\n\n\n\nAnswer\n: D. Use \nwith open(...) as f:\n block\n\n\nQ5: Chrome DevTools - Debugging\n\n\nA frontend developer wants to trace JavaScript function calls step-by-step. Which \nChrome DevTools\n panel should they use?\n\n\n\n\nA. Console\n\n\nB. Application\n\n\nC. Sources\n\n\nD. Elements\n\n\n\n\nAnswer\n: C. Sources\n\n\nQ6: Data Cleaning Tools\n\n\nYou are cleaning survey responses and want to automatically match similar text entries like \u201cNYC\u201d, \u201cNew York City\u201d, and \u201cnewyorkcity\u201d. Which approach/tool would be most effective?\n\n\n\n\nA. \nTRIM()\n in Excel\n\n\nB. Manual Find and Replace\n\n\nC. Fuzzy matching or clustering in OpenRefine\n\n\nD. COUNTIF()\n\n\n\n\nAnswer\n: C. Fuzzy matching or clustering in OpenRefine\n\n\nQ7: Geospatial Libraries\n\n\nWhich pair of Python libraries is best suited for \ngeospatial analysis\n and \nrendering static maps\n?\n\n\n\n\nA. pandas and seaborn\n\n\nB. geopandas and matplotlib\n\n\nC. folium and flask\n\n\nD. sklearn and dash\n\n\n\n\nAnswer\n: B. geopandas and matplotlib\n\n\nQ8: Statistical Significance\n\n\nA psychologist tests if a training program changes memory performance and finds a p-value of \n0.08\n. What can be concluded at the 0.05 significance level?\n\n\n\n\nA. The result is highly significant\n\n\nB. The null hypothesis must be rejected\n\n\nC. There is insufficient evidence to reject the null hypothesis\n\n\nD. The program is proven to work\n\n\n\n\nAnswer\n: C. There is insufficient evidence to reject the null hypothesis\n\n\nQ9: Purpose of Kumu\n\n\nWhat is a key use case for a tool like \nKumu\n?\n\n\n\n\nA. Animating time series\n\n\nB. Designing deep learning models\n\n\nC. Visualizing stakeholder networks and system relationships\n\n\nD. Performing statistical analysis\n\n\n\n\nAnswer\n: C. Visualizing stakeholder networks and system relationships\n\n\nQ10: DevTools Performance Diagnostics\n\n\nTo diagnose a slow webpage, you want to \nanalyze scripts, rendering times, and long tasks\n. Which DevTools panel provides a timeline-based view?\n\n\n\n\nA. Elements\n\n\nB. Performance\n\n\nC. Network\n\n\nD. Lighthouse\n\n\n\n\nAnswer\n: B. Performance\n\n\nQ11: Git Configuration\n\n\nWhich of the following files helps configure a Git project\u2019s name, email, and default branch?\n\n\n\n\nA. \n.gitignore\n\n\nB. \n.gitattributes\n\n\nC. \n.git/config\n\n\nD. \nREADME.md\n\n\n\n\nAnswer\n: C. \n.git/config\n\n\nQ13: Safe HTTP Method\n\n\nWhich HTTP method is considered \nsafe\n, meaning it is only used for retrieval and \nmust not change\n server state?\n\n\n\n\nA. GET\n\n\nB. DELETE\n\n\nC. PATCH\n\n\nD. POST\n\n\n\n\nAnswer\n: A. GET\n\n\nQ14: Deduplicating Text Entries\n\n\nA dataset has entries like \u201cIBM\u201d, \u201cI.B.M.\u201d, and \u201cInternational Business Machines\u201d. What is the best tool to cluster these for cleaning?\n\n\n\n\nA. Excel TRIM\n\n\nB. OpenRefine using key collision or fingerprinting\n\n\nC. pandas merge()\n\n\nD. CONCATENATE()\n\n\n\n\nAnswer\n: B. OpenRefine using key collision or fingerprinting\n\n\nQ15: Geospatial + Interactive Mapping\n\n\nA conservation biologist wants to visualize real-time animal tracking data on an interactive map. Which libraries would be best?\n\n\n\n\nA. geopandas and plotly\n\n\nB. folium and pandas\n\n\nC. seaborn and shapely\n\n\nD. rasterio and altair\n\n\n\n\nAnswer\n: B. folium and pandas\n\n\nQ16: Pandas - Filtering Unique Entries\n\n\nYou have a DataFrame of customer orders and want to list only those customers who ordered \nonce\n. Which Pandas method chain is most suitable?\n\n\n\n\nA. df.groupby(\u201ccustomer\u201d).sum()\n\n\nB. df[\u201ccustomer\u201d].value_counts() == 1\n\n\nC. df.drop_duplicates()\n\n\nD. df[\u201ccustomer\u201d].nunique()\n\n\n\n\nAnswer\n: B. df[\u201ccustomer\u201d].value_counts() == 1\n\n\nQ17: Purpose of Kumu in System Design\n\n\nHow does Kumu help in system design or stakeholder mapping?\n\n\n\n\nA. Organizing spreadsheets\n\n\nB. Identifying leverage points in complex systems through visual maps\n\n\nC. Rendering line graphs\n\n\nD. Sending notifications\n\n\n\n\nAnswer\n: B. Identifying leverage points in complex systems through visual maps\n\n\nQ18: Python Exception - Multiple Handlers\n\n\nWhich structure allows Python to handle different types of exceptions separately?\n\n\n\n\nA. \ntry\n\u2026\nfinally\n\n\nB. \nif\n\u2026\nelse\n\n\nC. Multiple \nexcept\n blocks\n\n\nD. Nested \ntry\n blocks\n\n\n\n\nAnswer\n: C. Multiple \nexcept\n blocks\n\n\nQ19: Understanding Statistical Power\n\n\nIf a study has \nlow statistical power\n, what is most likely to occur?\n\n\n\n\nA. False positive (Type I error)\n\n\nB. False negative (Type II error)\n\n\nC. Confounding\n\n\nD. Multicollinearity\n\n\n\n\nAnswer\n: B. False negative (Type II error)\n\n\nQ20: Git Basics - Staging Area\n\n\nWhich Git command moves modified files to the \nstaging area\n?\n\n\n\n\nA. git push\n\n\nB. git add\n\n\nC. git fetch\n\n\nD. git init\n\n\n\n\nAnswer\n: B. git add\n\n\nQ21: Chrome DevTools - Local Storage\n\n\nWhere can you inspect \nlocal storage\n items (e.g. tokens, preferences) in Chrome DevTools?\n\n\n\n\nA. Console\n\n\nB. Application > Local Storage\n\n\nC. Elements\n\n\nD. Sources\n\n\n\n\nAnswer\n: B. Application > Local Storage\n\n\nQ22: Chrome DevTools - JS Performance\n\n\nWhich DevTools feature helps measure execution time of scripts and CPU usage?\n\n\n\n\nA. Console\n\n\nB. Network\n\n\nC. Performance\n\n\nD. Application\n\n\n\n\nAnswer\n: C. Performance\n\n\nQ23: Excel Data Import - Scientific Notation Issue\n\n\nYou import a CSV file where product IDs like \n\"1E10\"\n are being interpreted as scientific notation in Excel. What is the best way to preserve these IDs as text?\n\n\n\n\nA. Format the column as General\n\n\nB. Use \n=TEXT(A1, \"0\")\n after import\n\n\nC. Set column format to Text during import or Text-to-Columns\n\n\nD. Change regional settings\n\n\n\n\nAnswer\n: C. Set column format to Text during import or Text-to-Columns\n\n\n\n\nModule: Everyday Tools\n\n\nQ1: Spreadsheet Functions\n\n\nYou have a dataset in Excel where column A contains full names in the format \u201cLast Name, First Name\u201d. Which function can you use to extract the first name into a separate column?\n\n\n\n\nA. \n=LEFT(A1, FIND(\",\", A1)-1)\n\n\nB. \n=RIGHT(A1, LEN(A1) - FIND(\",\", A1))\n\n\nC. \n=MID(A1, FIND(\",\", A1)+2, LEN(A1))\n\n\nD. \n=SPLIT(A1, \",\")\n\n\n\n\nAnswer\n: C \u2014 The \nMID\n function extracts text from the middle of a string. By finding the position of the comma and adding 2 (to skip the comma and space), it extracts the first name. Option A extracts the last name, Option B results in an error due to incorrect syntax, and Option D is not a valid Excel function.\n\n\n\n\nModule: Data Sourcing\n\n\nQ2: Web Scraping Ethics\n\n\nWhen performing web scraping to collect data, which of the following practices is considered unethical?\n\n\n\n\nA. Respecting the website\u2019s \nrobots.txt\n file.\n\n\nB. Sending requests at a rate that mimics human browsing behavior.\n\n\nC. Scraping data from a website that requires login without permission.\n\n\nD. Citing the source of the data collected.\n\n\n\n\nAnswer\n: C \u2014 Scraping data from a website that requires login without permission violates the site\u2019s terms of service and user privacy. Options A, B, and D are ethical practices that respect the website\u2019s policies and data ownership.\n\n\n\n\nModule: Data Preparation\n\n\nQ3: Handling Missing Data\n\n\nIn a dataset, you notice that several entries in the \u201cAge\u201d column are missing. Which method is generally \nnot\n appropriate for handling these missing values?\n\n\n\n\nA. Replacing missing values with the mean age.\n\n\nB. Deleting rows with missing age values.\n\n\nC. Replacing missing values with a fixed age, such as 0.\n\n\nD. Leaving the missing values as they are without any action.\n\n\n\n\nAnswer\n: D \u2014 Leaving missing values unaddressed can lead to errors in analysis and modeling. Options A, B, and C are common strategies for handling missing data, depending on the context and the extent of the missingness.\n\n\n\n\nModule: Data Analysis\n\n\nQ4: Statistical Measures\n\n\nWhich of the following statistical measures is \nnot\n sensitive to extreme values (outliers) in a dataset?\n\n\n\n\nA. Mean\n\n\nB. Median\n\n\nC. Standard Deviation\n\n\nD. Range\n\n\n\n\nAnswer\n: B \u2014 The median represents the middle value of a dataset and is not affected by outliers. In contrast, the mean, standard deviation, and range can be significantly influenced by extreme values.\n\n\n\n\nModule: Large Language Models\n\n\nQ5: Tokenization in NLP\n\n\nIn Natural Language Processing, what is the primary purpose of tokenization?\n\n\n\n\nA. To translate text from one language to another.\n\n\nB. To split text into individual words or subwords.\n\n\nC. To encrypt text for secure communication.\n\n\nD. To summarize large texts into shorter versions.\n\n\n\n\nAnswer\n: B \u2014 Tokenization involves breaking down text into smaller components, such as words or subwords, which can then be processed by language models. This is a fundamental step in NLP tasks.\n\n\n\n\nModule: Geospatial and Network Analysis\n\n\nQ6: Geographic Coordinate Systems\n\n\nWhich of the following coordinate systems is commonly used to represent locations on Earth\u2019s surface?\n\n\n\n\nA. Cartesian Coordinate System\n\n\nB. Polar Coordinate System\n\n\nC. Geographic Coordinate System (Latitude and Longitude)\n\n\nD. Cylindrical Coordinate System\n\n\n\n\nAnswer\n: C \u2014 The Geographic Coordinate System uses latitude and longitude to specify locations on Earth\u2019s surface. This system is widely used in geospatial analysis.\n\n\n\n\nModule: Data Visualization\n\n\nQ7: Effective Data Visualization\n\n\nWhen creating a bar chart to compare the sales performance of different products, which practice should be avoided?\n\n\n\n\nA. Ordering bars from highest to lowest value.\n\n\nB. Using different colors for each bar without a legend.\n\n\nC. Starting the y-axis at zero.\n\n\nD. Labeling each bar with its exact value.\n\n\n\n\nAnswer\n: B \u2014 Using different colors for each bar without a legend can confuse the audience, as they may assume the colors represent different categories. Consistency and clarity are key in effective data visualization.\n\n\n\n\nModule: Everyday Tools\n\n\nQ8: VS Code Feature Use\n\n\nYou are editing a Python script in Visual Studio Code and want to quickly find and edit all occurrences of a variable name in the current file. What feature should you use?\n\n\n\n\nA. Git integration\n\n\nB. Debug panel\n\n\nC. \nMulti-cursor editing\n\n\nD. Terminal commands\n\n\n\n\nAnswer\n: C \u2014 Multi-cursor editing allows you to place multiple cursors in a file and edit text in multiple locations at once. It is useful for refactoring variable names or repeated patterns.\n\n\n\n\nModule: Data Sourcing\n\n\nQ9: Data API Identification\n\n\nWhich of the following data sources is most likely to provide structured data accessible via an API?\n\n\n\n\nA. A scanned PDF document\n\n\nB. A screenshot of a chart\n\n\nC. \nThe World Bank data portal\n\n\nD. A newspaper article\n\n\n\n\nAnswer\n: C \u2014 The World Bank data portal provides structured datasets accessible via APIs. The other options involve unstructured or image-based content not suitable for direct data access.\n\n\n\n\nModule: Data Preparation\n\n\nQ10: Data Type Conversion in Excel\n\n\nYou imported a CSV file into Excel, and one of the columns containing numbers is treated as text. What is the easiest way to convert it into numeric format?\n\n\n\n\nA. Use the CONCAT function\n\n\nB. Format the column as Text\n\n\nC. \nUse the VALUE() function\n\n\nD. Use SUBSTITUTE()\n\n\n\n\nAnswer\n: C \u2014 The VALUE function converts text that appears as numbers into actual numeric values. This is useful when data is imported with formatting issues.\n\n\n\n\nModule: Data Analysis\n\n\nQ11: Outlier Detection\n\n\nYou are analyzing a dataset of employee salaries. Which visualization is best for quickly identifying outliers?\n\n\n\n\nA. Line chart\n\n\nB. \nBox plot\n\n\nC. Histogram\n\n\nD. Pie chart\n\n\n\n\nAnswer\n: B \u2014 A box plot clearly shows the spread of data and highlights outliers as individual points beyond the whiskers.\n\n\n\n\nModule: Large Language Models\n\n\nQ12: Prompt Engineering Strategy\n\n\nTo get consistent, structured responses from a language model when extracting key information, which approach is most effective?\n\n\n\n\nA. Ask the model to \u201csummarize\u201d the text\n\n\nB. Use open-ended questions\n\n\nC. \nUse system messages and JSON schema formatting\n\n\nD. Provide only one-word inputs\n\n\n\n\nAnswer\n: C \u2014 System messages and structured output formats like JSON schemas guide the model to generate reliable and consistent structured responses.\n\n\n\n\nModule: Geospatial and Network Analysis\n\n\nQ13: Network Centrality\n\n\nIn a social network graph of coworkers, which metric best identifies the person who connects the most groups together?\n\n\n\n\nA. Degree centrality\n\n\nB. Closeness centrality\n\n\nC. \nBetweenness centrality\n\n\nD. Eigenvector centrality\n\n\n\n\nAnswer\n: C \u2014 Betweenness centrality measures how often a node appears on shortest paths between other nodes, highlighting connectors or \u201cbridges\u201d in the network.\n\n\n\n\nModule: Data Visualization\n\n\nQ14: Choosing the Right Chart\n\n\nYou want to show how the composition of a marketing budget changes across three years. Which visualization is most appropriate?\n\n\n\n\nA. Pie charts for each year\n\n\nB. Scatter plots\n\n\nC. \nStacked bar chart\n\n\nD. Line chart\n\n\n\n\nAnswer\n: C \u2014 A stacked bar chart shows parts of a whole across different categories and time periods, making it easier to compare budget composition over years.",
+    "url": "https://discourse.onlinedegree.iitm.ac.in/t/end-term-mock-tds-jan-25/172333",
+    "title": "END TERM MOCK [TDS Jan 25]"
+  },
+  {
+    "text": "Screenshot (883)\n1920\u00d71080 368 KB\n\n\nScreenshot (884)\n1920\u00d71080 134 KB\n\n\nScreenshot (885)\n1920\u00d71080 315 KB\n\n\nScreenshot (886)\n1920\u00d71080 308 KB\n\n\nThis question is in 2024 Dec22: IIT M FN EXAM QDD2\n\nCan anyone tell how to solve this?",
+    "url": "https://discourse.onlinedegree.iitm.ac.in/t/pyq-haversine/172546",
+    "title": "PYQ Haversine"
+  },
+  {
+    "text": "I had been accidentally given a duplicate peer and assigned a new peer on 10th April with the evaluation deadline being 11th April 11:59 PM. I had asked for access to the Google Sheet for question 1 however I have not been given any access and the deadline is up. What to do?",
+    "url": "https://discourse.onlinedegree.iitm.ac.in/t/what-to-do-if-peer-has-not-allowed-access-and-the-deadline-is-over-for-peer-review-in-project-2/172471",
+    "title": "What to do if peer has not allowed access and the deadline is over for peer review in Project 2"
+  },
+  {
+    "text": "@carlton\n sir my project 1 marks are showing not submited. But i did indeed submit it with proper procedure. What should i do ? For my marks update.",
+    "url": "https://discourse.onlinedegree.iitm.ac.in/t/project-1-not-submitted-issue/172497",
+    "title": "Project 1 : not submitted issue"
+  },
+  {
+    "text": "Please post any questions related to \nGraded Assignment 6 - Data Analysis\n\n\nPlease use markdown code formatting (fenced code blocks) when sharing code (rather than screenshots). It\u2019s easier for us to copy-paste and test.\n\n\nDeadline \n2025-03-15T18:30:00Z",
+    "url": "https://discourse.onlinedegree.iitm.ac.in/t/graded-assignment-6/169283",
+    "title": "Graded assignment 6"
+  },
+  {
+    "text": "Dear Learner,\n\n\nThis is the discussion thread for \nGraded Assignment 7\n. Please post any queries related to it here.\n\n\nDeadline: \n2025-03-26T18:29:00Z",
+    "url": "https://discourse.onlinedegree.iitm.ac.in/t/ga7-data-visualisation-discussion-thread-tds-jan-2025/169888",
+    "title": "GA7 - Data Visualisation - Discussion Thread [TDS Jan 2025]"
+  },
+  {
+    "text": "@carlton\n sir in google form it is written to submit email address of peer but the mail TDS team has sent has 3 drive links .so we have to submit drive links or like create the email by adding \u201c\n@ds.study.iitm.ac.in\n\u201d after the username",
+    "url": "https://discourse.onlinedegree.iitm.ac.in/t/email-in-ga-7/172021",
+    "title": "EMAIL IN ga-7"
+  },
+  {
+    "text": "image\n1141\u00d7678 102 KB\n\n\n@carlton\n sir plz review it\n\ni think the correct answer should be A",
+    "url": "https://discourse.onlinedegree.iitm.ac.in/t/pyq-doubt/172373",
+    "title": "PYQ doubt"
+  },
+  {
+    "text": "I have submitted GA 7 in TDS multiple times, inspite of this it is showing not submitted. Please inspect",
+    "url": "https://discourse.onlinedegree.iitm.ac.in/t/tds-ga7-score-missing/171500",
+    "title": "TDS - GA7 - Score missing"
+  },
+  {
+    "text": "@s.anand\n \n@carlton\n \n@Saransh_Saini\n \n@Jivraj\n\n\n\u201cStudents are allowed to take help from their pets in completing assignments.\u201d\n\nSo I did. \n\n\n\n\n \nConfession: My Labrador Did All My Assignments\n \n\n\nYes, I got \ngreat marks\n in Assignments, ROEs, and Project 1.\n\nBut let\u2019s be real\u2026\n\n\nIt was \nmy Labrador\n who did the actual work \n\n\nWhile I was snoozing through deadlines, he was:\n\n\n\n\nSolving \ndeployment issues\n faster than my dev server boots\n\n\nWriting \nfunction calling code\n like a true GPT whisperer\n\n\nFixing \nLLM bugs\n that I didn\u2019t even understand\n\n\n\n\nMeanwhile, I was just vibing in my blanket.\n\nHe growled at broken APIs.\n\nI took the credit. \n\n\n\n\n Message from the Dog Developer:\n\n\n\n\n\u201cThank you all for an awesome semester!\n\nI learned more than some juniors. From containerization to prompt tuning.\n\nBut I am \npersonally offended\n by one thing\u2026\u201d\n\n\n\n\n\n\n\u201cHow dare you give \nbonus marks on Week 7\n?\n\nI skipped it \u2014 just like many \u2014 because we were told \nonly best 4 of 7 would count\n.\n\nI demand justice. And a belly rub.\u201d\n\n\u2013 \n, Full-stack Labrador & Part-time Therapist\n\n\n\n\n\n\n Moral of the story:\n\n\nLet your pets help with your coursework.\n\nYou get the grade. They get the rage.",
+    "url": "https://discourse.onlinedegree.iitm.ac.in/t/according-to-tds-rule-14-b/172254",
+    "title": "\ud83d\udcdc According to TDS Rule 14(b):"
+  },
+  {
+    "text": "@carlton\n can you give me some advice regarding preparation for end term exam.",
+    "url": "https://discourse.onlinedegree.iitm.ac.in/t/end-term-tds/171668",
+    "title": "End term TDS"
+  },
+  {
+    "text": "Screenshot 2025-04-03 161302\n1268\u00d7533 16.3 KB\n\n\nvirajpitale/tds-project1\n\non github you can clearly see i added mit license still it is showing failed",
+    "url": "https://discourse.onlinedegree.iitm.ac.in/t/why-failed/171672",
+    "title": "Why Failed?"
+  },
+  {
+    "text": "Can anyone share the link to project 1 solution github repo.",
+    "url": "https://discourse.onlinedegree.iitm.ac.in/t/project-1-solution-repository-link/171999",
+    "title": "Project 1 solution repository link"
+  },
+  {
+    "text": "Sir,\n\n\nThe License file is present in the github repository however i received a mail that said that it was absent.\n\n\nimage\n1145\u00d7673 33.8 KB\n\n\nimage\n633\u00d7336 7.1 KB\n\n\nSir I thought that the \u2018LICENSE\u2019 file had to be renamed to \u2018MIT LICENSE\u2019.\n\nCan you please look into it. Thankyou!",
+    "url": "https://discourse.onlinedegree.iitm.ac.in/t/project-1-discrepancy-regarding-mit-license/171485",
+    "title": "Project 1 discrepancy regarding mit license"
+  },
+  {
+    "text": "Please post any questions related to \nProject 1 - LLM-based Automation Agent\n.\n\n\nDeadline: \nSunday, February 16, 2025 6:29 PM\n\n\nUpdate on 27 Jan 2025\n:\n\n\nA \nsample\n evaluation script for Project 1 tasks A1-A10 is available at \ntools-in-data-science-public/project-1 at tds-2025-01-project-1-wip \u00b7 sanand0/tools-in-data-science-public \u00b7 GitHub\n\n\nYou can use this to validate your code for Project 1.\n\n\nPlease note:\n\n\n\n\nThis is a sample. It \nWILL\n change.\n\n\nDon\u2019t rely on the dataset being the same. It \nWILL\n change.\n\n\nLLMs give different results each time they are called. Make sure:\n\n\n\nYour code gives correct results \nreliably\n (i.e. try a few times)\n\n\nChange the task in the evaluation script slightly to test variations\n\n\n\n\n\n\nYour \nAI Proxy usage\n resets on 1 Feb. You have a limited budget. Utilize what you can this month.\n\n\nFor those who \nsubmit their code\n by Friday 31 Jan, I will run a sample evaluation and share the results.",
+    "url": "https://discourse.onlinedegree.iitm.ac.in/t/project-1-llm-based-automation-agent-discussion-thread-tds-jan-2025/164277",
+    "title": "Project 1 - LLM-based Automation Agent - Discussion Thread [TDS Jan 2025]"
+  },
+  {
+    "text": "My project 1 marks are not showing in the dashboard. please check on that. i submitted my project on 16.02,2025\n\n23f3000975@ds.study.iitm.ac.in  - my id",
+    "url": "https://discourse.onlinedegree.iitm.ac.in/t/project-1-tds-score-not-showing-i/168916",
+    "title": "Project 1 tds score not showing i"
+  },
+  {
+    "text": "I am unable to open the files shared by the students I am peer reviewing as I don\u2019t have access to them on my student email. Since we were asked to give access to se2002@study.iitm.ac.in when submitting, I wanted to check how this will work\u2014will the team provide us access, or do we need to request it from the student and wait for them to grant it?\"\n\n\n@carlton",
+    "url": "https://discourse.onlinedegree.iitm.ac.in/t/peer-review-clarificaiton/171541",
+    "title": "Peer review clarificaiton"
+  },
+  {
+    "text": "@s.anand\n \n@carlton\n \n@Saransh_Saini\n \n@Jivraj\n\nI submitted the form before the deadline with the API endpoint as /api, but I later realized the correct format was /api/ (with a trailing slash). To fix this, I edited the Google Form today.\n\n\nWill this cause any issues with the submission? Please let me know if any further action is needed.",
+    "url": "https://discourse.onlinedegree.iitm.ac.in/t/clarification-on-api-endpoint-correction-in-submission/171525",
+    "title": "Clarification on API Endpoint Correction in Submission"
+  },
+  {
+    "text": "@carlton\n Sir, I want to clarify something about the peer grading process. Some of the files of the student assigned to me are not accessble and others are missing. How am I to grade each thing? From what I understand analysis must be graded based on the shared files but if im not able to access them what should I do? I think requesting view access might violate the spirit of the grading exercise.\n\n\nPlease help me out on what to do. Thanks.\n\n\nimage\n1756\u00d71156 149 KB\n\n\nUpon checking further, in the assignment we were asked only to share access with se2002@study.iitm.ac.in . So I think all of us might have this issue. what do we do?\n\n\nimage\n1260\u00d7194 29.4 KB",
+    "url": "https://discourse.onlinedegree.iitm.ac.in/t/ga7-peer-grading-clarification/171515",
+    "title": "GA7: Peer Grading Clarification"
+  },
+  {
+    "text": "Hello everyone,\n\n\nI have completed a working project of P2, but I want to test it out with actual questions from the GA\u2019s. Is there anyone that can provide with sample question structure, or 1 or 2 questions as a form of \u2018test cases\u2019 so that we can try and fix our project?\n\n\nThank you very much in advance\n\nAryan Singh",
+    "url": "https://discourse.onlinedegree.iitm.ac.in/t/project-2-how-to-test-questions-from-the-gas/171422",
+    "title": "Project 2: How to test questions from the GA's"
+  },
+  {
+    "text": "@carlton\n \n@Jivraj\n \n@Saransh_Saini\n\n\nI have two queries.\n\n\n\n\n\n\nCould you provide an ETA of GA6 score, GA7 score, final Project 1 score and Project 2 score?\n\n\n\n\n\n\nI am uncertain about being able to attend the End Semester exam. In case I choose to take the end semester exam next term, will the project scores and ROE score be carried forward to the next term? I don\u2019t know if the marking scheme will change next term or if the old marking scheme is followed for such cases.\n\n\n\n\n\n\nPlease let me know if possible.",
+    "url": "https://discourse.onlinedegree.iitm.ac.in/t/scores-and-end-semester-exam/171473",
+    "title": "Scores and End Semester exam"
+  },
+  {
+    "text": "I am really facing difficulty completing Project 2 on time as we had our OPPE exam yesterday, and the past week was dedicated to preparing for it. Additionally, due to an unforeseen emergency, I was unable to write the ROE exam, which resulted in lost marks. This makes it even more crucial for me to perform well in this project to make up for it.\n\n\nI sincerely request if it would be possible to extend the deadline by 2 days. This would allow me to put in my best effort and submit quality work. I truly value this opportunity and would be extremely grateful for your consideration.\n\n\nThank you for your time and understanding.",
+    "url": "https://discourse.onlinedegree.iitm.ac.in/t/request-for-extension-on-tds-project-2-deadline/171428",
+    "title": "Request for Extension on TDS Project 2 Deadline"
+  },
+  {
+    "text": "@s.anand\n \n@carlton\n \n@Jivraj\n \n@Saransh_Saini\n\n\nI would like to share that we have successfully completed \nTDS Project 2\n, solving \n46/57\n cases dynamically via \nAzure after deployment\n! We also tested it with our friends\u2019 \nGA questions\n, and it\u2019s working as expected.\n\n\nThis project was a \nteam effort\n by me and two friends [ \n@lakshaygarg654\n and \n@23f2004637\n ], and we are thrilled with the results post-deployment.\n\n\nI would love the opportunity to \ndemonstrate our project\n to \nTA and Anand Sir\n in a \nGoogle Meet session\n on \nMarch 31st\n (since I have OPPE on the 29th and 30th).\n\n\nIf you can spare some time for a quick look at our project, it would be awesome! Looking forward to your response.",
+    "url": "https://discourse.onlinedegree.iitm.ac.in/t/successfully-completed-tds-project-2-seeking-feedback-demonstration-session/171054",
+    "title": "Successfully Completed TDS Project 2 \u2013 Seeking Feedback & Demonstration Session"
+  },
+  {
+    "text": "Dear Learners,\n\n\nProf. Anand Live Session Alert!\n\n\n\n\n Date & Time:\n Wednesday, March 19, 2025 \u00b7 9:00 \u2013 10:00 PM (IST)  \n2025-03-19T15:30:00Z\n\n\n Speaker:\n \nProfessor Anand\n (\n@s.anand\n)\n\n\n Topic:\n Project 2 Q&A + General Course Queries\n\n\n Google Meet Link:\n \nJoin Here\n\n\n\n\n\n\n How to Prepare for the Live Session\n\n\n Ask Questions in Advance  on THIS thread\n\n\n\n\nIf you have doubts about \nProject 2\n, post your specific questions in this thread.\n\n\nStruggling to phrase your question clearly? Use the \nTDS GPT Assistant\n to refine your question before posting.\n\n\n \nTDS GPT Assistant\n\n\nPlease keep this thread clean and do not use it for banter or solutions. Its only for questions.\n\n\nCheck if someone else has already asked the question before posting. Instead just use a thumbs up.\n\n\nIf you still feel the question has not been asked exactly the way you would frame it, then go ahead and ask it.\n\n\n\n\n Continue Using the \noriginal Project 2 Discussion Thread\n for solutions\n\n\n\n\nThe \nProject 2 Discussion Thread\n is still available for peer and faculty support.\n\n\n \nDiscussion Thread Link\n\n\n\n\n Purpose of This Thread\n\n\n\n\nProf. Anand will \nreview questions in advance\n to ensure an effective live session.\n\n\nPlease post \nonly relevant, well-structured questions\n here.\n\n\n\n\n\n\nDon\u2019t miss this opportunity! Get your questions ready and join the session.\n\n\n\nKind regards,\n\n\nTDS Team",
+    "url": "https://discourse.onlinedegree.iitm.ac.in/t/tds-jan-25-imp-announcement-for-project-2/170413",
+    "title": "[TDS JAN 25] Imp. Announcement for Project 2"
+  },
+  {
+    "text": "Sir,\n\nI haven\u2019t received bonus marks in ga4 as, i posted queries in discourse regarding ga4. I have scored 8 marks in ga4, but after bonus marks it should be 9, but in dashboard it is showing only 80 marks.\n\nKindly, update my marks in dashboard.\n\n\n@carlton\n , \n@Jivraj\n , \n@Saransh_Saini",
+    "url": "https://discourse.onlinedegree.iitm.ac.in/t/ga4-bonus-marks/170309",
+    "title": "GA4 bonus marks"
+  },
+  {
+    "text": "@s.anand\n \n@carlton\n \n@Jivraj\n\nDear TDS Team,\n\n\nI hope you are doing well. I am writing to highlight several issues and doubts related to different aspects of the course that require clarification and resolution.\n\n\n1. Graded Assignments (GA)\n\n\n\n\n\n\nGA6 Doubts Unresolved:\n While doubts related to Q1 and Q2 have been addressed, other queries remain unresolved despite being posted in the GA6 thread . The deadline has passed, but no solutions have been provided. \n(Thread link)\n\n\n\n\n\n\nGA Platform Changes:\n Initially, we were solving questions on \nexam.sanand.workers.dev\n . However, in GA6, we moved to \nSeek\n and in GA7, to \nGoogle Forms\n. The issue is that in GA6, we cannot check our answers like we could in previous assignments.\n\n\n\n\n\n\n2. Project Updates\n\n\n\n\nProject 1:\n The result is still awaited, although it was expected on or before March 16. Any update on this would be helpful.\n\n\nProject 2:\n There are multiple doubts posted in the \nProject 2\n discussion thread, but they have not been addressed yet. Without these clarifications, it is difficult to proceed with the project. Could you please provide an expected timeline for when these queries will be resolved?  \n(thread link)\n\n\n\n\n3. ROE Score Update\n\n\n\n\nWhile ROE scores may not be a primary concern, the bonus marks in ROE have still not been updated on the student dashboard. It would be helpful to get confirmation on when these will be reflected.\n\n\n\n\nI appreciate your time and assistance in addressing these concerns. Looking forward to your response.\n\n\nBest regards,\n\nLakshay",
+    "url": "https://discourse.onlinedegree.iitm.ac.in/t/concerns-regarding-various-issues-graded-assignments-project-doubts-and-roe-score-updates/170147",
+    "title": "Concerns Regarding Various Issues: Graded Assignments, Project Doubts, and ROE Score Updates"
+  },
+  {
+    "text": "In every TDS assignment after the first, I have not seen a submit button in the assignment page so I could not submit it there( I see it in the sanand portal and submit it there)\n\n\nNow, my assignment score for all assignments (2,3,4,5) shows 0\n\n\nI am attaching SS of my assignment-5 page to show there was no submit button available there\n\n\nI had raised this as a ticket in the Support desk(21/Feb) in the past as discourse was not available to me at that time, but this didn\u2019t get resolved. I saw a similar older thread where it was mentioned that this is not something to worry about but now it is showing in the portal that I am not allowed to take the End Term Exam. What can be done for this?\n\n\nSS\n1895\u00d71010 167 KB",
+    "url": "https://discourse.onlinedegree.iitm.ac.in/t/problem-with-tds-ga-scores/170131",
+    "title": "Problem with TDS GA Scores"
+  },
+  {
+    "text": "Hi Carlton,\n\nI am writing to confirm the basic requirements for successfully completing the course.\n\n\nAs I understand, the criteria for passing are:\n\n\n\n\nAchieving a score greater than 40 marks in the graded assignments.\n\n\nSecuring more than 40 marks in the end-term examination.\n\n\n\n\nCould you kindly confirm if this understanding is accurate? Additionally, please let me know if there are any other prerequisites to be met.",
+    "url": "https://discourse.onlinedegree.iitm.ac.in/t/clarification-on-passing-criteria-for-tds-january-2025-term/169807",
+    "title": "Clarification on Passing Criteria for TDS \u2013 January 2025 Term"
+  },
+  {
+    "text": "Hey, It\u2019s showiing Absent for Programming Quiz 1, But i submitted it successfully.\n\nIs this because of any glitch? Anyone of you having the same error?",
+    "url": "https://discourse.onlinedegree.iitm.ac.in/t/programming-quiz-1-in-student-dashboard-label-for-roe-scores-showing-absent-or-incorrect/169369",
+    "title": "Programming Quiz 1 in Student Dashboard (label for ROE scores) - showing absent or incorrect"
+  },
+  {
+    "text": "This is the official page for discussing anything related to the ROE itself. Please limit posts on this thread to technical questions or doubts regarding the ROE itself.\n\n\nThe Remote Online Exam has been scheduled for\n\n\nSunday, 2nd March 2025 (\n02/03/2025\n ) at \n1:00pm\n\n\nThe exam link will become available at the below mentioned site, 1 hour before the start time:\n\n\nhttps://study.iitm.ac.in/ds/exam.html\n\n\n[EDIT]\n\n\n\n\nThere will be a \nGmeet manned by the course team\n from \nSunday, March 2, 2025 7:20 AM\n\u2192\nSunday, March 2, 2025 8:20 AM\n to solve your technical issues (timeouts, question not visible etc).\n\n\nPlease do not ask concept related questions in this meet. Use this only for clarifying technical issues. \nIf your issue is resolved, PLEASE EXIT THE MEET.\n Lurkers will be penalized \n\n\nThere is a bonus provided for \nstudent feedback\n on the ROE exam preparation and attempt. This will be available till \nSunday, March 2, 2025 11:30 AM\n\n\n\n\nAll the best,\n\nTDS Team",
+    "url": "https://discourse.onlinedegree.iitm.ac.in/t/remote-online-exam-tds-jan-2025/168832",
+    "title": "Remote Online Exam [TDS Jan 2025]"
+  },
+  {
+    "text": "A few updates on dates. Hope this eases pressure a little.\n\n\n\n\nGraded Assignment 6 moved from 14 Feb to 28 Feb 2025. Submission date moved from 9 Mar to 16 Mar 2025.\n\n\nProject 2 moved from 21 Feb to 3 Mar 2025. Submission date moved from 17 Mar to 31 Mar 2025.\n\n\nGraded Assignment 7 moved from 28 Feb to 7 Mar 2025. Submission date moved from 16 Mar to 26 Mar 2025.\n\n\nProject 1 results will be released by 16 Mar 2025.\n\n\n\n\nThe \nTDS course page\n now reflects these dates.",
+    "url": "https://discourse.onlinedegree.iitm.ac.in/t/revised-dates-tds-jan-2025/168506",
+    "title": "Revised dates [TDS Jan 2025]"
+  },
+  {
+    "text": "Was the Thursday session recorded? If yes, it is not on the YouTube channel. Please provide the link.",
+    "url": "https://discourse.onlinedegree.iitm.ac.in/t/thursday-live-session/169393",
+    "title": "Thursday live session"
+  },
+  {
+    "text": "Please sir was the Thursday session recorded? If yes, it is not on the Youtube channel. Please provide the lecture in the Youtube, I missed that lecture.\n please reply me sir .",
+    "url": "https://discourse.onlinedegree.iitm.ac.in/t/live-session-recorded-or-not/169456",
+    "title": "Live session recorded or not"
+  },
+  {
+    "text": "image\n2559\u00d71599 385 KB\n\ncan any one tell me why still it shows me that i miss exam although i pass it with 8.",
+    "url": "https://discourse.onlinedegree.iitm.ac.in/t/solve-this-roe-mistake-pls/169352",
+    "title": "Solve this roe mistake pls"
+  },
+  {
+    "text": "Please post any questions related to \nGraded Assignment 5 - Data Preparation\n.\n\n\nPlease use markdown code formatting (fenced code blocks) when sharing code (rather than screenshots). It\u2019s easier for us to copy-paste and test.\n\n\nDeadline:  \n2025-02-15T18:30:00Z\n\n\n@Jivraj\n \n@Saransh_Saini\n \n@carlton",
+    "url": "https://discourse.onlinedegree.iitm.ac.in/t/ga5-data-preparation-discussion-thread-tds-jan-2025/166576",
+    "title": "GA5 - Data Preparation - Discussion Thread [TDS Jan 2025]"
+  },
+  {
+    "text": "My TDS GA score is showing 0,whereas when i open the assignment it is showing last saved score 7.",
+    "url": "https://discourse.onlinedegree.iitm.ac.in/t/disparity-in-tds-ga-5-scores/169247",
+    "title": "Disparity in TDS GA 5 scores"
+  },
+  {
+    "text": "Dear Learner,\n\n\nUpdate 6\n\n\nHere is link to roe checklist file used in Friday(28 feb) session: \nROE Checklist.docx - Google Docs\n\n\nAll the best\n\nTds team\n\n\nUpdate 5\n\n\n28/02/2025 1:05 pm\n\n\nDear Learner,\n\n\nPlease find the link to Mock ROE 4. This is the final Mock before actual ROE.\n\n\n\n\n\n\ndrive.google.com\n\n\n\n\n\n\n\n\nmock_roe_4.pdf\n\n\nGoogle Drive file.\n\n\n\n\n\n\n\n\n\n\n\n\nWe have a \nspecial\n session scheduled for tonight from 8pm to 10pm. We will be sharing some important information during that session which will help you for your ROE. It is available in your google calendar.\n\n\nThe meet link for that session is:\n\n\nROE Preparation - TDS\n\n\nFriday, February 28 \u00b7 8:00 \u2013 10:00pm\n\n\nTime zone: Asia/Kolkata\n\n\nVideo call link: \nhttps://meet.google.com/nnq-sxqh-ryw\n\n\nThe session will be recorded and live streamed on YouTube.\n\nIt will be available on the TDS YouTube Playlist later.\n\n\nKind regards,\n\nTDS Team\n\n\nUpdate 4\n\n\n27/02/2025 7:18pm\n\n\nDear Learner,\n\n\nPlease find the link to Mock ROE 3 below. Note the datasets links are present inside the given document (there are more than 1):\n\n\n\n\n\n\ndrive.google.com\n\n\n\n\n\n\n\n\nMOCK ROE 3.pdf\n\n\nGoogle Drive file.\n\n\n\n\n\n\n\n\n\n\n\n\nThe estimated time for this Mock ROE 3 is 45 mins.\n\n\nAll the best,\n\nTDS Team\n\n\nUpdate 3\n\n\n26/02/2025 8:11 pm\n\n\nDear Learner\n\n\nPlease access the Mock ROE 2 at this link:\n\n\n\n\n\n\n\n\nexam.sanand.workers.dev\n\n\n\n\n\n\nTechnical Assessment\n\n\n\n\n\n\n\n\n\n\n\n\nThere is no time limit for this Mock. The expected time to solve this ROE is 45 mins. Set an alarm and try it.\n\nAfter the session at 9pm there will be a session where we will show you the solutions step by step (not like the previous session which was a demo of ROE).\n\nTo check your answers you will need to run the following script in the console.\n\n\ninputs = document.querySelectorAll('input')\ntextboxes = document.querySelectorAll(\"textarea\")\nbuttons = document.querySelectorAll(\"button\")\ninputs.forEach(input => input.removeAttribute('disabled'));\nbuttons.forEach(input => input.removeAttribute('disabled'));\ntextboxes.forEach(input => input.removeAttribute('disabled'));\n\n\n\nDo not submit or save your answers.\n\n\nAll the best!\n\nKind regards\n\nTDS Team\n\n\nUpdate 2\n\n\n26/02/2025 11:00 am\n\n\nWe will be releasing Mock 2 tonight on an exam portal at 8pm (no time limit).\n\nThe link for the Mock 2 will be available in this post as well as in the Seek Portal. An email will also be sent with the link to Mock 2.\n\n\nWe will be conducting a solving session at 9pm. This will be a regular teaching session (not like the first session on Tuesday 25/02/25 which was a real preview of what ROE looks like).\n\n\nKind regards,\n\nTDS Team\n\n\n\n\nUpdate 1\n\n\n25/02/2025 7:46pm\n\n\nWe have now closed the mock submissions.\n\nBoth the dataset and the form submissions will reopen after tonights live session.\n\n\n\n\nAnnouncement\n\n\n25/02/2025\n\n\nThis same information is available in the seek portal as well.\n\n\nThe data for Mock ROE 1 is available at this link:\n\n\nJivraj-18/tds-jan-2025-mock-roe-1\n\n\nThe questions for Mock ROE 1 is available at this link:\n\n\nhttps://forms.gle/UWhvLQvjrJmnvMSn6\n\n\nIMPORTANT: We will accept only a single submission of the Mock Question Form. Solve all the questions first, and then fill the form and make a single submission at the end.\n\n\nThe form submission will be temporarily closed after 8pm.\n\n\nWe have provided this for you to test yourself. The expected time to complete this Mock ROE is 45 mins.\n\n\nWe will allow access to the Mock ROE and the question form after the live solving session tonight.\n\n\nAll the best!",
+    "url": "https://discourse.onlinedegree.iitm.ac.in/t/mock-roe-1-2-3-4-tds-jan-2025/168449",
+    "title": "Mock ROE 1, 2, 3, 4 [TDS Jan 2025]"
+  },
+  {
+    "text": "Project 2 - TDS Solver - Discussion Thread\n\n\nCreating this Thread to share answers and questions from your respective assignments\n\n\nWhy? \n\n\nIf we can Train the LLM with these Questions already, we can easily do well?\n\n\nToo many Questions for LLM \n\n\nTrue we can use embeddings, map that stored in-system dictionary and use relevant questions from in-system data to send as context with answer\n\n\nWhat We need from YOU \ud83e\udef5\ud83c\udffd\n\n\nGet to scraping your respective Graded Assignments and post the it?\n\n\nHow?\n\n\n\n\nIf answers are saved, Just Print (Ctrl+P) and save pdf, not really if this would work\n\n\nIf you had saved code for each question, send the saved code and with a docstring as the question , This would be useful \n\n\n\n\nWhere?\n\n\n\n\n\n\ngithub.com/ANdIeCOOl/TDS-Project2-QuestionBank\n\n\n\n\n\n\nREADME.md\n\n\n\n\nmain\n\n\n\n\n# TDS-Project2-QuestionBank\nQuestion Bank for all TDS assignments\n\n# Requested format\n## Student Assignments Directory Structure\n\nEach student has a folder named with their roll number. Inside each student's folder, there are multiple assignment folders (`Assignment_X`). Each assignment contains:\n- A `.txt` file with the question statement.\n- A corresponding `.py`, `.sh`, or `.js` file for the solution.\n\n### Example Directory Structure\nRollNo_12345/\n\u251c\u2500\u2500 Assignment_1/\n\u2502   \u251c\u2500\u2500 Q1.txt    # Question for Q1\n\u2502   \u251c\u2500\u2500 Q1.py     # Solution in Python\n\u2502   \u251c\u2500\u2500 Q2.txt    # Question for Q2\n\u2502   \u251c\u2500\u2500 Q2.sh     # Solution in Bash\n\u2502   \u251c\u2500\u2500 Q3.txt    # Question for Q3\n\u2502   \u251c\u2500\u2500 Q3.js     # Solution in JavaScript\n\u251c\u2500\u2500 Assignment_2/\n\n\n\n\n\n  This file has been truncated. \nshow original\n\n\n\n\n\n\n\n\n\n\n\n\nPlease note, Please send the code it would make the LLM more idk \u201cbetter\u201d\n\n\nCheers,\n\nAndrew out. \n\n\n@all",
+    "url": "https://discourse.onlinedegree.iitm.ac.in/t/project-2-tds-solver-shared-data-pool/169045",
+    "title": "Project 2 - TDS Solver - Shared Data Pool"
+  },
+  {
+    "text": "On 2nd March, I have both Java OPPE and TDS ROE.\n\nMy Java OPPE timing is: 9:30 to 11:00 AM\n\nMY TDS ROE timing is: 10:30 to 11:15 AM\n\n\nA minimum gap of one hour is recommended.\n\n\nI have written to support.\n\n\n@carlton\n Please look into this.",
+    "url": "https://discourse.onlinedegree.iitm.ac.in/t/roe-timing-overlaps-with-java-oppe/168537",
+    "title": "ROE timing overlaps with Java OPPE"
+  },
+  {
+    "text": "@carlton\n \n@Jivraj\n\nI wanted to let you know that I was unable to attend the ROE session today. I\u2019ve been running a high fever since yesterday, and while I managed to complete my JAVA OPPE this morning, I started feeling much worse afterward. I felt it was necessary to get checked out by a doctor and unfortunately had to miss ROE as a result.\n\n\nI was wondering if there might be any possibility of taking the ROE at a later time? Please let me know if there\u2019s anything I can do or if any arrangements can be made.",
+    "url": "https://discourse.onlinedegree.iitm.ac.in/t/unable-to-attend-the-roe/168987",
+    "title": "Unable to attend the ROE"
+  },
+  {
+    "text": "github.com\n\n\n\n\n\n\n\n\n\n\nGitHub - ritwiktrivedi/ROE-Master-Snippets-File\n\n\nContribute to ritwiktrivedi/ROE-Master-Snippets-File development by creating an account on GitHub.\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nThis is a repo some of us have been working on. It not complete but we are getting there. PRs are appreciated.\n\n\nThanks to the course team for giving us this idea of having snippets for common operations.",
+    "url": "https://discourse.onlinedegree.iitm.ac.in/t/roe-common-snippets-repo-feb-2025/168901",
+    "title": "ROE Common Snippets Repo Feb 2025"
+  },
+  {
+    "text": "I\u2019ll try to post whatever i solve lol XD",
+    "url": "https://discourse.onlinedegree.iitm.ac.in/t/solving-roe-realtime/168943",
+    "title": "Solving ROE Realtime"
+  },
+  {
+    "text": "Hello sir, I did not recieve the mail for roe exam Pls look into it.",
+    "url": "https://discourse.onlinedegree.iitm.ac.in/t/not-recieved-the-roe-link-mail/168825",
+    "title": "Not recieved the roe link mail"
+  },
+  {
+    "text": "Dear \n@jkmadathil\n \n@Anand\n \n@Bharathi\n\n\nFirst and foremost, we sincerely appreciate the efforts of the \nTDS team\n in supporting us throughout this course. The \nlive sessions and guidance\n have been helpful, and we recognize the intent to make this a valuable learning experience.\n\n\nHowever, despite these efforts, many of us have faced significant challenges in keeping up with the course expectations.\n\n\nKey Challenges Faced\n\n\n \nLack of Prerequisites\n\n\nThis course did not list any \nprerequisites\n, leading many students\u2014including those from \nnon-technical backgrounds\n\u2014to enroll with the expectation that they could keep up. However, the reality is that the \ncourse content, assignments, and projects\n have been far more complex than anticipated, making it difficult to manage.\n\n\n \nProject Complexity & Deadline Pressure\n\n\nThe \ndifficulty of the projects\n has been overwhelming, requiring most of us to \nrely heavily on peer support\n just to meet the deadlines. Despite putting in our best efforts, many of us struggled to complete them successfully.\n\n\n \nCourse Structure Changes & Misleading Past Feedback\n\n\nMany students joined \nTDS\n based on past \nDiscourse posts and feedback\n, which suggested a different course structure. With the recent changes, it has been a tough transition\u2014especially for \nworking professionals\n and students without prior experience.\n\n\n \nRemote Open Exam (RoE) & Graded Assignments (GAs)\n\n\nWhile we have put in significant effort\u2014spending \n2-3 days on Graded Assignments (GAs)\n to secure good scores\u2014we still find ourselves \nstruggling to meet expectations\n for the \nprojects and RoE\n, which are significantly harder than anticipated.\n\n\nWe completely understand the need to maintain academic standards, but we also hope fairness is considered. Since many of us are putting in our best efforts but still finding it hard to meet the course demands, we kindly request a revision of the grading pattern. Increasing the weightage of Graded Assignments (GAs) would help ensure that the dedication and hard work of students are fairly reflected in their grades. This would allow students to pass with a reasonable grade while still maintaining the integrity of the course.\n\n\nWe truly respect the effort that has gone into designing this course, and we are all here because we genuinely want to learn and grow. We only ask that the grading structure consider the diverse backgrounds of students so that everyone has a fair chance to succeed.\n\n\nThank you for your time and understanding. We appreciate your consideration and hope to find a way forward that benefits both students and the course objectives.",
+    "url": "https://discourse.onlinedegree.iitm.ac.in/t/concerns-regarding-tds-course-difficulty-and-grading-fairness/168476",
+    "title": "Concerns Regarding TDS Course Difficulty and Grading Fairness"
+  },
+  {
+    "text": "By going into inspect, copying the json, pasting into the portal and correcting the errors accordingly with chat gpt. Somehow got it done but very tiresome for just 1 mark.",
+    "url": "https://discourse.onlinedegree.iitm.ac.in/t/tds-w4-q3/166651",
+    "title": "Tds w4- q3"
+  },
+  {
+    "text": "Good morning sir,\n\n\nI want to request that you open the previous GAs to solve the questions and check for the answers. I don\u2019t wish for them to be graded, but I would like to work with the portal and validate my answers for the questions stated in the GA itself. This would be of great help and could help prepare the upcoming ROE.\n\nThank you for considering my request.\n\n\nRegards.\n\n\n@carlton\n \n@Jeevesh",
+    "url": "https://discourse.onlinedegree.iitm.ac.in/t/opening-previous-ga-just-for-practise/168515",
+    "title": "Opening previous ga just for practise"
+  },
+  {
+    "text": "Whoever wants can participate and then we go into breakout rooms and each group solves a particular question and then we all share the code so we can complete the ROE faster and more effienctly?\n\n\n@all",
+    "url": "https://discourse.onlinedegree.iitm.ac.in/t/create-a-question-solving-groups-for-roe/168567",
+    "title": "Create a Question solving groups for ROE"
+  },
+  {
+    "text": "Hello Sir,\n\n\nI understand from the email we received that there are three mock ROEs scheduled. I wanted to check if it is mandatory to attempt the mock at 7 PM or if there is flexibility in the timing. As a working professional, I may not be able to attempt the mock at 7 PM.\n\n\nCould you please confirm if there is any flexibility in the timings? Additionally, I would appreciate it if you could provide details on when and how the mock links will be shared.\n\n\nThanks and Regards\n\nShalini",
+    "url": "https://discourse.onlinedegree.iitm.ac.in/t/clarification-regarding-mock-roe-timings/168384",
+    "title": "Clarification regarding Mock ROE Timings"
+  },
+  {
+    "text": "@carlton\n \n@jkmadathil\n Sir please shift the ROE date to another date because we really need time to understand all these stuffs as these are so hard for beginners like us and there is quiz 2 and we have to prepare for that also.\n\nSir please understand our situation and pay attention to our concern.",
+    "url": "https://discourse.onlinedegree.iitm.ac.in/t/tds-roe-exam-date-shift/168458",
+    "title": "Tds roe exam date shift"
+  },
+  {
+    "text": "I am not able to see Module 6 or Module 7 in my TDS curriculum. Please let me know whether it is released already.",
+    "url": "https://discourse.onlinedegree.iitm.ac.in/t/tds-module-6/168482",
+    "title": "TDS Module 6"
+  },
+  {
+    "text": "image\n1337\u00d7683 31.9 KB\n\nIt seems that the question in \nGraded Assignment 5 for TDS\n is producing incorrect results despite the same logic working correctly for other variations of the problem. Please check into this question once as I have cross checked with many of the students and chatgpt and all of us faced  this issue in this question. Thanks!\n\n\n@carlton\n \n@s.anand\n\n\ncode to take reference from:\n\n\nimport gzip\nimport pandas as pd\nfrom datetime import datetime\n\nlog_path = 's-anand.net-May-2024.gz'\nstart_time = datetime.strptime('01:00:00', '%H:%M:%S').time()\nend_time = datetime.strptime('15:00:00', '%H:%M:%S').time()\nlog_data = []\n\ndef parse_log(line):\n    parts = line.split(' ')\n    log_time = datetime.strptime(parts[3][1:], '%d/%b/%Y:%H:%M:%S')\n    method, url, status = parts[5][1:], parts[6], int(parts[8])\n    return log_time, method, url, status\n\nwith gzip.open(log_path, 'rt') as file:\n    for entry in file:\n        log_time, method, url, status = parse_log(entry)\n        if method == 'GET' and url.startswith('/blog/') and 200 <= status < 300:\n            if log_time.weekday() == 0 and start_time <= log_time.time() < end_time:\n                log_data.append(entry)\n\nprint(f\"Successful GET requests: {len(log_data)}\")\n\n\n\nps: I shared code after the deadline hopefully no issues there!",
+    "url": "https://discourse.onlinedegree.iitm.ac.in/t/q3-ga5-not-accepting-right-answer/168011",
+    "title": "Q3, GA5 not accepting right answer"
+  },
+  {
+    "text": "@carlton\n \n@s.anand\n\nDear team,\n\nGreetings of the day\n\n\nI am writing this to request for a functionality\n\n\n\n\nPractice the GAs again after their deadline has passed\n\n\nEither the answers can be posted or the same question answering and simultaneous evaluation interface can work just like it does before the deadline.\n\n\n\n\nHow this is beneficial?\n\n\n\n\nAs the GATE exam has now been completed,  we can now practice the questions we either left or could not do at that time\n\n\nRevision will help us ace the ROE, project and end term\n\n\n\n\nOverall this will increase the value of the already most practical and rewarding course of IIT BS i.e TDS.\n\n\nLooking forward to your guidance and kind consideration\n\nRegards\n\nAryan",
+    "url": "https://discourse.onlinedegree.iitm.ac.in/t/request-for-a-functionality-to-revise-the-gas-of-tds/168310",
+    "title": "Request for a functionality to revise the GAs of TDS"
+  },
+  {
+    "text": "@carlton\n \n@s.anand\n\n\nRelease of Project 2 has been delayed by 3 days, and release of Assignment 6 has been delayed by 10 days.\n\n\nCould you please clarify if the submission dates will be changed accordingly? I am assuming it will have to be changed for Assignment 7 as well.\n\n\nPlease let me know rough submission dates if possible so that I can plan accordingly (my schedule in the upcoming days is very hectic).",
+    "url": "https://discourse.onlinedegree.iitm.ac.in/t/project-2-and-week-6-assignment/168303",
+    "title": "Project 2 and Week 6 assignment"
+  },
+  {
+    "text": "Hi TDS team, with ROE being ahead, i assume an official thread will be created soon. Here are few doubts from my side. I request the official post to cover these.\n\n\n\n\nSyllabus\n\n\nkindly hint us on the type of questions, kind of tools to practice\n\n\nI did my ROE the last term, the time was not enough for me. I would like to know if it is actually possible to solve all the questions within the time\n\n\nAny mock or resource to practice from?\n\n\nadditional tips, if any",
+    "url": "https://discourse.onlinedegree.iitm.ac.in/t/roe-instructions-request/168142",
+    "title": "ROE instructions request"
+  },
+  {
+    "text": "Please post any questions related to \nGraded Assignment 4 - Data Sourcing\n.\n\n\nPlease use markdown code formatting (fenced code blocks) when sharing code (rather than screenshots). It\u2019s easier for us to copy-paste and test.\n\n\nDeadline: \nSunday, February 9, 2025 6:29 PM\n\n\n@Jivraj\n \n@Saransh_Saini\n \n@carlton",
+    "url": "https://discourse.onlinedegree.iitm.ac.in/t/ga4-data-sourcing-discussion-thread-tds-jan-2025/165959",
+    "title": "GA4 - Data Sourcing - Discussion Thread [TDS Jan 2025]"
+  },
+  {
+    "text": "my score from week 2 to week 5 are still showing not submitted.\n\n\nScreenshot 2025-02-22 181257\n1144\u00d7704 30.8 KB",
+    "url": "https://discourse.onlinedegree.iitm.ac.in/t/my-score-are-still-not-updated/168143",
+    "title": "My score are still not updated"
+  },
+  {
+    "text": "QUESTION 9\n\n\nI was supposed to transcribe the audio of the provided video for a certain time period. After several attempts my submission still generated differences from the supposed answers. I have tried all forms of re-punctuations but the error wont budge. I even compared the generated transcript with the actual audio several times. I BELIEVE MY ANSWER IS CORRECT. If not I wish to know what the correct answer is. Because compared to the video I have provided the exact and well punctuated transcription of the audio between 397.2 and 505.5 seconds.\n\n\nHere was my transcription - \" Determined to confront the mystery, Miranda followed the elusive figure. In the dim corridor, fleeting glimpses of determination and hidden sorrow emerged, challenging her assumptions of friends and foes alike. The pursuit led her to a narrow, winding passage beneath the chapel. In the oppressive darkness, the air grew cold and heavy, and every echo of her footsteps seemed to whisper warnings of secrets best left undisturbed.\n\n\nIn a subterranean chamber, the shadow finally halted. The figure\u2019s voice emerged from the gloom, \u201cYou are close to the truth, but be warned some secrets, once uncovered, can never be buried again.\u201d\n\n\nThe mysterious stranger introduced himself as Victor, a former confidant of Edmund. His words painted a tale of coercion and betrayal\u2014a network of hidden alliances that had forced Edmond into an impossible choice.\n\n\nVictor detailed clandestine meetings, cryptic codes, and a secret society that manipulated fate from behind the scenes. Miranda listened, each revelation tightening the knots of suspicion around her mind.\n\n\nFrom within his warm coat, Victor produced a faded journal brimming with names, dates, and enigmatic symbols. Its contents mirrored Edmund\u2019s diary, strengthening the case for a conspiracy rooted in treachery. The journal hinted at a hidden hall beneath the manor, where the secret society stored evidence of their manipulations.\n\n\nMiranda\u2019s pulse quickened at the thought of unmasking those responsible for decades of deceit. Returning to the manor\u2019s main hall, Miranda retraced her steps with renewed resolve. Every shadow in the corridor now seemed charged with meaning, each creak of wood a prelude to further revelations. In the manor\u2019s basement, beneath a concealed panel, Miranda discovered another revelation \"",
+    "url": "https://discourse.onlinedegree.iitm.ac.in/t/question-9-of-tds-week-5-ga/168057",
+    "title": "QUESTION 9 of TDS WEEK 5 GA"
+  },
+  {
+    "text": "Screenshot 2025-02-22 at 12.41.09 AM\n2940\u00d71912 443 KB\n\n\nIs this something to worry about?",
+    "url": "https://discourse.onlinedegree.iitm.ac.in/t/ga5-score-not-reflecting-in-the-page-after-deadline/168017",
+    "title": "GA5 Score Not Reflecting in The Page After Deadline"
+  },
+  {
+    "text": "I have not receive week 6 assignment.Please help",
+    "url": "https://discourse.onlinedegree.iitm.ac.in/t/about-tds-course/167878",
+    "title": "About TDS Course"
+  },
+  {
+    "text": "hello sir this is Harish. i completed and saved the week 2 and week 4 assignment. (didn\u2019t do week 3) but the graded assignment shows it is incomplete and the score is 0 for both the weeks . i am attaching the iages. kindly check and reply soon sir.\n\n\nimage\n1035\u00d7466 71 KB\n\n\nimage\n1035\u00d7453 27.2 KB\n\n\nthis is for week 4\n\n\nimage\n1678\u00d7847 141 KB\n\n\nimage\n1035\u00d7481 38.9 KB\n\n\nimage\n463\u00d7457 26.9 KB\n\n\nkindly check on this sir.",
+    "url": "https://discourse.onlinedegree.iitm.ac.in/t/graded-assignments-dashboard-scores-incorrect-missing/166816",
+    "title": "Graded Assignments Dashboard Scores Incorrect/Missing"
+  },
+  {
+    "text": "The deadlines mentioned in the Grading Document provided and the TDS website (\ns-anand.net\n) are different. Project-1\u2019s deadline was 15 Feb, it was then postponed to the 16th of Feb. Can this be reflected here?\n\nNot affecting me particularly, however, it\u2019s good to be consistent across channels of communication to the students\u2026\n\n\ngrab-IIT-Madras--Microsoft Edge_at_11.39.08_on__19-02-2025__003297\n1484\u00d71168 161 KB",
+    "url": "https://discourse.onlinedegree.iitm.ac.in/t/inconsistent-information-in-the-grading-document-and-the-website/167679",
+    "title": "Inconsistent information in the Grading Document and the website"
+  },
+  {
+    "text": "@s.anand\n \n@carlton\n \n@Jivraj\n\n\nPlease extend the deadline please.\n\n\n88394c0c2e80a1326cfffe020684be4a\n480\u00d7270 10.3 KB",
+    "url": "https://discourse.onlinedegree.iitm.ac.in/t/project-1-casual-banter/167344",
+    "title": "Project 1 - Casual banter"
+  },
+  {
+    "text": "@carlton\n \n@Jivraj\n \n@Saransh_Saini\n\nI got a mail saying my Dockerfile is missing. However I have a dockerfile already in my github repository. Is it an issue with the spelling of dockerfile since I have submitted it in all small case as \u2018dockerfile\u2019. It was showing the score when I checked with the evaluate.py that was provided by iitm.\n\n\nShall I just change the name of the file from \u2018dockerfile\u2019 to \u2018Dockerfile\u2019 in github repository of mine or is there anything else that is needed to detect the Dockerfile?",
+    "url": "https://discourse.onlinedegree.iitm.ac.in/t/important-dockerfile-submitted-as-dockerfile-rest-everything-is-working-fine/167415",
+    "title": "IMPORTANT: Dockerfile submitted as dockerfile rest everything is working fine"
+  },
+  {
+    "text": "Dear TDS Team,\n\n\nI have verified my submission, and my repository \ndoes include a Dockerfile\n, and the \nDocker image is accessible on DockerHub\n. Please find the attached screenshot as proof. Kindly review my submission again and let me know if any further action is needed.\n\n\nLooking forward to your confirmation.\n\n\nBest regards,\n\nArnav Mehta\n\n(21f3002647)\n\n\nimage\n250\u00d7534 3.92 KB\n\n\nimage\n713\u00d7238 11 KB",
+    "url": "https://discourse.onlinedegree.iitm.ac.in/t/project-1-submission-marked-as-fail-despite-having-dockerfile-image/167471",
+    "title": "Project 1 Submission Marked as FAIL Despite Having Dockerfile & Image"
+  },
+  {
+    "text": "Dear Sir,\n\n\nI have submitted \nTDS Project 1\n twice. Please consider my \nlast submission\n for evaluation, as it contains the final and most updated version.\n\n\nApologies for any inconvenience caused, and I appreciate your time and consideration.\n\n\nBest regards,\n\n\nSudip Dey",
+    "url": "https://discourse.onlinedegree.iitm.ac.in/t/request-to-consider-my-last-submission-for-tds-project-1/167410",
+    "title": "Request to Consider My Last Submission for TDS Project 1"
+  },
+  {
+    "text": "@s.anand\n \n@carlton\n \n@Jivraj\n\n\nPlease extend the deadline please.\n\n\n88394c0c2e80a1326cfffe020684be4a\n480\u00d7270 10.3 KB",
+    "url": "https://discourse.onlinedegree.iitm.ac.in/t/just-some-background-test/167699",
+    "title": "Just some background test"
+  },
+  {
+    "text": "Hello \n@carlton\n and \n@Jivraj\n   and  \n@s.anand\n sir\n\n\nIt is becoming quite evident that a lot of us will struggle to get something decent out for the project-1 by saturday and we are struggling here. I request to reconsider the deadline and extend the due date so that it gives slightly more odds of submitting the project.\n\n\nThanks\n\nVikram",
+    "url": "https://discourse.onlinedegree.iitm.ac.in/t/request-for-postponing-the-project-1-deadline-official-response-extended/166866",
+    "title": "--Request for postponing the Project -1 deadline-- Official Response: Extended :)"
+  },
+  {
+    "text": "sir i am getting an error in this function calling which you have demonstrate yesterday , i am attaching my code also the error with it. Please take a look and provide the solution as the deadline is close please help me as soon as possible.\n\nis there anything to do with dockerfile or anything else please explain it how to do it step by step.\n\n\nimport os\nfrom dotenv import load_dotenv\nimport json\nimport requests\nfrom fastapi import FastAPI, HTTPException\nfrom fastapi.middleware.cors import CORSMiddleware\nimport pandas as pd\nfrom fastapi.responses import StreamingResponse, JSONResponse\nfrom typing import Dict, Any, List\nimport subprocess\nimport datetime\nfrom pathlib import Path\nimport sqlite3\n\napp = FastAPI()\n\napp.add_middleware(\n    CORSMiddleware,\n    allow_origins=[\"*\"],\n    allow_credentials=True,\n    allow_methods=[\"GET\", \"POST\"],\n    allow_headers=[\"*\"],\n)\n\n#AIPROXY_TOKEN = os.getenv(\"AIPROXY_TOKEN\")\nload_dotenv()\nAIPROXY_TOKEN = os.getenv(\"AIPROXY_TOKEN\", \"enter your token here\")\n\n\ndef sort_contacts(contacts_file_path: str, output_file_path: str):\n    try:\n        contacts = pd.read_json(contacts_file_path)\n        contacts.sort_values([\"last_name\", \"first_name\"]).to_json(output_file_path, orient=\"records\")\n        return {\"message\": f\"Contacts sorted and saved to {output_file_path}\"}\n    except Exception as e:\n        return {\"error\": f\"Failed to sort contacts: {str(e)}\"}\n\n\na4_tool = {\n    \"type\": \"function\",\n    \"function\": {\n        \"name\": \"sort_contacts\",\n        \"description\": \"This function takes data from a json file and sorts the data first by last name and then by first name, then it stores it inside the speicfied location.\",\n        \"parameters\": {\n            \"type\": \"object\",\n            \"properties\": {\n                \"contacts_file_path\": {\n                    \"type\": \"string\",\n                    \"description\": \"The relative path to the input JSON file containing the contacts.\"\n                },\n                \"output_file_path\": {\n                    \"type\": \"string\",\n                    \"description\": \"The relative path to the output JSON file to store the sorted contacts.\"\n                }\n            },\n            \"required\": [\"contacts_file_path\", \"output_file_path\"],\n            \"additionalProperties\": False\n        },\n        \"strict\": True\n    },\n}\n\n\ntools = [bakecake, a1_tool, a2_tool, a3_tool, a4_tool, a5_tool, a6_tool, a7_tool, a8_tool, a9_tool, a10_tool]\n\n\n\ndef query_gpt(user_input: str, tools: list[dict] = tools) -> dict:\n    response = requests.post(\n        url=\"https://aiproxy.sanand.workers.dev/openai/v1/chat/completions\",\n        headers={\n            \"Content-Type\": \"application/json\",\n            \"Authorization\": f\"Bearer {AIPROXY_TOKEN}\"\n        },\n        json={\n            \"model\": \"gpt-4o-mini\",\n            \"messages\": [\n                {\n                    \"role\": \"user\",\n                    \"content\": user_input\n                }\n            ],\n            \"tools\": tools,\n            \"tool_choice\": \"auto\"\n        }\n    )\n    return response.json()\n\n@app.get(\"/\")\ndef home():\n    return {\"Hello\": \"World\"}\n\n@app.get(\"/read\")\ndef read_file(path: str):\n    try:\n        with open(path, \"r\") as f:\n            return f.read()\n    except Exception as e:\n        raise HTTPException(status_code=404, detail=\"File does not exist\")\n\n@app.post(\"/run\")\nasync def run(task: str):\n    query = query_gpt(task)\n    print(query)  # Print the full response to inspect it.\n    \n    if 'choices' not in query:\n        raise HTTPException(status_code=500, detail=\"Invalid response format from GPT API\")\n    \n    try:\n        tool_calls = query['choices'][0]['message'].get('tool_calls', [])\n        if tool_calls:\n            func_name = tool_calls[0]['function']['name']\n            args = json.loads(tool_calls[0]['function']['arguments'])\n            \n            # Map function names to their respective functions\n            function_map = {\n                \"cakebake\": cakebake,\n                \"install_uv_and_run_datagen\": install_uv_and_run_datagen,\n                \"format_markdown_file\": format_markdown_file,\n                \"count_wednesdays\": count_wednesdays,\n                \"sort_contacts\": sort_contacts,\n                \"extract_recent_logs\": extract_recent_logs,\n                \"create_markdown_index\": create_markdown_index,\n                \"extract_sender_email\": extract_sender_email,\n                \"extract_credit_card_number\": extract_credit_card_number,\n                \"find_similar_comments\": find_similar_comments,\n                \"calculate_gold_ticket_sales\": calculate_gold_ticket_sales,\n            }\n            \n            if func_name in function_map:\n                output = function_map[func_name](**args)\n            else:\n                raise HTTPException(status_code=500, detail=\"Unknown function called\")\n        else:\n            raise HTTPException(status_code=500, detail=\"No function call found in response\")\n    except KeyError as e:\n        raise HTTPException(status_code=500, detail=f\"KeyError: Missing key in response - {str(e)}\")\n    except Exception as e:\n        raise HTTPException(status_code=500, detail=f\"Error processing the request: {str(e)}\")\n    \n    return output\n\nif __name__ == \"__main__\":\n    import uvicorn\n    uvicorn.run(app, host=\"0.0.0.0\", port=8000)\n\n\n\nScreenshot 2025-02-14 171217\n2075\u00d71343 176 KB\n\n\n@Saransh_Saini\n , \n@Jivraj\n , \n@carlton",
+    "url": "https://discourse.onlinedegree.iitm.ac.in/t/regarding-project1-for-file-not-detecting-after-sending-post-request/167172",
+    "title": "Regarding project1 for file not detecting after sending post request"
+  },
+  {
+    "text": "Project details for TDS was supposed to be released on 17 jan ; how to access its details ?",
+    "url": "https://discourse.onlinedegree.iitm.ac.in/t/tds-project-1-release-information-required/164214",
+    "title": "TDS Project 1 release information required"
+  },
+  {
+    "text": "Is it important to use an IITM mail ID in GitHub for the project?\n\n\n@carlton",
+    "url": "https://discourse.onlinedegree.iitm.ac.in/t/regarding-github-mail-for-project/166891",
+    "title": "Regarding Github Mail For Project"
+  },
+  {
+    "text": "@Jivraj\n \n@carlton\n sir please help\n\n\nWhen I am downloading the data folder after processing datagen.py , it is trying to download in root folder and it is facing permission error . how can we overcome this ?\n\nneeds sudo permission all the time\u2026\n\n\nimage\n2100\u00d7216 100 KB",
+    "url": "https://discourse.onlinedegree.iitm.ac.in/t/sudo-permission-needed-to-create-data-folder-in-root/167072",
+    "title": "Sudo permission needed to create data folder in root?"
+  },
+  {
+    "text": "Sir,\n\nI have facing lots of difficulties in assignments and it was taking alot of time to solve a single assignment, so please extend the deadline for project 1 as it contains more weightage and it required more time to solve it.\n\nPlease kindly consider my request, as I am from non-technical background it is taking most of the time of a week because of which other Courses are suffering.\n\n\n@carlton\n , \n@Jivraj\n , \n@Saransh_Saini",
+    "url": "https://discourse.onlinedegree.iitm.ac.in/t/for-project-1/166593",
+    "title": "For project 1"
+  },
+  {
+    "text": "@s.anand\n \n@Jivraj\n \n@carlton\n can you please provide structure of the project as it is getting very confusing, it will be very helpful and create less confusion regarding the project.",
+    "url": "https://discourse.onlinedegree.iitm.ac.in/t/project-structure/166738",
+    "title": "Project structure"
+  },
+  {
+    "text": "I have doubt in question 10 to convert pdf to markdown\n\nI am not getting correct markdown\n\n\n@pds_staff",
+    "url": "https://discourse.onlinedegree.iitm.ac.in/t/i-have-doubt-in-q10/166647",
+    "title": "I have doubt in Q10"
+  },
+  {
+    "text": "Sir,\n\nI am not able to understand how to solve Q7 in GA4. kindly guide me how to solve this question or provide some tutorial video to complete it.\n\nAs the deadline is of today please provide the tutorial video for this question soon.\n\n\n@Saransh_Saini\n , \n@Jivraj\n , \n@carlton",
+    "url": "https://discourse.onlinedegree.iitm.ac.in/t/doubt-in-ga4-q7/166634",
+    "title": "Doubt in GA4 Q7"
+  },
+  {
+    "text": "Chat GPT has stepped up the game and I am excited \n\n\nNow I can not only generate the code, but can run it and ask it to fix the error with a single click. This changes software development and I guess we are moving in the direction we all know. It also makes this course a lot more important -  the number of new things that I have learnt from this course which I am able to directly apply to my day to day work is immense. Thanks to \n@s.anand\n and the entire course team who designed this amazing course\n\n\nI hope ChatGPT solves deployment next \n\n\nScreenshot 2025-02-07 at 7.08.14 PM\n1920\u00d71012 120 KB",
+    "url": "https://discourse.onlinedegree.iitm.ac.in/t/chat-gpt-new-release/166498",
+    "title": "Chat GPT new release"
+  },
+  {
+    "text": "I cannot find the questions of GA1 since the submission date has passed, can you help me",
+    "url": "https://discourse.onlinedegree.iitm.ac.in/t/where-can-i-find-the-tds-ga1-after-the-submission-date-has-passed/165416",
+    "title": "Where can i find the TDS GA1 after the submission date has passed?"
+  },
+  {
+    "text": "Respected Sir \n@carlton\n,\n\n\nI realized there are still many topics to learn in order to complete the TDS Course ( With an A or S Grade) as I have missed some questions (Couldn\u2019t do even after studying the videos ) .\n\n\nTherefore wanted to learn and regardless of the scoring I still wish to complete GA1 but, I see that I can\u2019t access the questions  anymore \u2026\n\n\nIs there any way to give the answers in the portal and check. I just want to learn and test my knowledge\n\n\nThank You,\n\n22f2000559.",
+    "url": "https://discourse.onlinedegree.iitm.ac.in/t/questions-closed-ga/165433",
+    "title": "Questions closed (GA)"
+  },
+  {
+    "text": "Please post any questions related to \nGraded Assignment 2 - Deployment Tools\n.\n\n\n\n\nImportant Instruction\n\n\nPlease use markdown code formatting (fenced code blocks) when sharing code in Discourse posts. This makes the code much easier to read and differentiate from non-code text. It also makes it easier for people to copy code snippets and run it themselves. Visit this link for more details: \nExtended Syntax | Markdown Guide\n.\n\n\nA friendly suggestion: kindly go through \nDiscourse Docs\n! \n\n\n\n\nDeadline: \nSunday, February 2, 2025 6:29 PM\n\n\n@carlton\n \n@Jivraj",
+    "url": "https://discourse.onlinedegree.iitm.ac.in/t/ga2-deployment-tools-discussion-thread-tds-jan-2025/161120",
+    "title": "GA2 - Deployment Tools - Discussion Thread [TDS Jan 2025]"
+  },
+  {
+    "text": "The lectures primarily focus on surface-level explanations without ensuring a strong foundational understanding of the topics. Key concepts, such as Large Language Models (LLMs) and related technologies, are not explained in a structured manner, making it difficult for students to follow.",
+    "url": "https://discourse.onlinedegree.iitm.ac.in/t/llm-what-rocket-science-going-on-here/166303",
+    "title": "LLM what rocket science going on here"
+  },
+  {
+    "text": "sir I am not able to solve these question I have tried all thing also the video which you shared but still after using postman also i am unable to answer it (showing methods not allowed everytime)and also in Q8 I am having this problem\n\n\nScreenshot 2025-02-05 182750\n1917\u00d71018 38.3 KB\n\n\nimport requests\nfrom fastapi import FastAPI, HTTPException\nfrom pydantic import BaseModel\nfrom sentence_transformers import util\nfrom fastapi.middleware.cors import CORSMiddleware\nfrom typing import List\n\n# Create FastAPI app\napp = FastAPI()\n\n# Enable CORS\napp.add_middleware(\n    CORSMiddleware,\n    allow_origins=[\"*\"],  # Allow all origins\n    allow_credentials=True,\n    allow_methods=[\"OPTIONS\", \"POST\"],  # Allow OPTIONS and POST\n    allow_headers=[\"*\"],  # Allow all headers\n)\n\n# Pydantic model to parse incoming data\nclass SimilarityRequest(BaseModel):\n    docs: List[str]\n    query: str\n\n# OpenAI API key and URL\nAPI_URL = \"https://aiproxy.sanand.workers.dev/openai/v1/embeddings\"\nAPI_KEY = \"enter your key\"  # Replace with your actual API key\n\ndef get_embeddings(docs: List[str]) -> List[List[float]]:\n    \"\"\"Retrieve embeddings for a list of documents from OpenAI's API.\"\"\"\n    headers = {\n        \"Content-Type\": \"application/json\",\n        \"Authorization\": f\"Bearer {API_KEY}\",\n    }\n    \n    data = {\n        \"model\": \"text-embedding-3-small\",  # Use the correct model\n        \"input\": docs\n    }\n\n    response = requests.post(API_URL, json=data, headers=headers)\n\n    if response.status_code != 200:\n        raise HTTPException(status_code=response.status_code, detail=\"API request failed\")\n\n    response_data = response.json()\n    if 'data' not in response_data:\n        raise KeyError(\"Missing 'data' field in API response\")\n\n    return [embedding['embedding'] for embedding in response_data['data']]\n\n@app.post(\"/similarity\")\nasync def similarity(request: SimilarityRequest):\n    # Get embeddings for docs and query\n    docs = request.docs\n    query = request.query\n\n    # Get embeddings for the documents and query\n    all_docs = docs + [query]  # Combine documents and query into one list\n    embeddings = get_embeddings(all_docs)  # Get embeddings from OpenAI API\n\n    doc_embeddings = embeddings[:-1]  # All embeddings except for the query\n    query_embedding = embeddings[-1]  # The last embedding is for the query\n\n    # Calculate cosine similarities\n    similarities = util.cos_sim(query_embedding, doc_embeddings)[0].cpu().numpy()\n\n    # Sort documents by similarity (highest first)\n    sorted_docs = sorted(zip(docs, similarities), key=lambda x: x[1], reverse=True)\n\n    # Return the top 3 most similar documents\n    top_matches = [doc for doc, _ in sorted_docs[:3]]\n    \n    return {\"matches\": top_matches}\n\n\n\n\n\nfor Q8\n\n\nfrom fastapi import FastAPI\nfrom fastapi.responses import JSONResponse\nfrom fastapi.middleware.cors import CORSMiddleware\nfrom typing import Dict, Any\nimport re\n\n# Create the FastAPI app\napp = FastAPI()\n\n# CORS configuration to allow any origin\napp.add_middleware(\n    CORSMiddleware,\n    allow_origins=[\"*\"],  # Allows all origins\n    allow_credentials=True,\n    allow_methods=[\"*\"],  # Allows all methods (GET, POST, etc.)\n    allow_headers=[\"*\"],  # Allows all headers\n)\ndef get_ticket_status(ticket_id: int) -> Dict[str, Any]:\n    # Mock response for illustration purposes\n    return {\"ticket_id\": ticket_id, \"status\": \"open\"}\n\ndef schedule_meeting(date: str, time: str, meeting_room: str) -> Dict[str, Any]:\n    # Mock response for illustration purposes\n    return {\"date\": date, \"time\": time, \"meeting_room\": meeting_room, \"status\": \"scheduled\"}\n\ndef get_expense_balance(employee_id: int) -> Dict[str, Any]:\n    # Mock response for illustration purposes\n    return {\"employee_id\": employee_id, \"balance\": 1000.0}\n\ndef calculate_performance_bonus(employee_id: int, current_year: int) -> Dict[str, Any]:\n    # Mock response for illustration purposes\n    return {\"employee_id\": employee_id, \"current_year\": current_year, \"bonus\": 500.0}\n\ndef report_office_issue(issue_code: int, department: str) -> Dict[str, Any]:\n    # Mock response for illustration purposes\n    return {\"issue_code\": issue_code, \"department\": department, \"status\": \"reported\"}\nimport re\n\ndef extract_parameters(query: str) -> Dict[str, Any]:\n    \"\"\"Extract parameters from the query string.\"\"\"\n    # Convert the query to lowercase for case-insensitive matching\n    query = query.strip().lower()\n\n    if match := re.match(r\"what is the status of ticket (\\d+)\\?\", query):\n        return {\n            \"name\": \"get_ticket_status\",\n            \"arguments\": {\"ticket_id\": int(match.group(1))}\n        }\n    elif match := re.match(r\"schedule a meeting on (\\d{4}-\\d{2}-\\d{2}) at (\\d{2}:\\d{2}) in (.+)\\.\", query):\n        return {\n            \"name\": \"schedule_meeting\",\n            \"arguments\": {\n                \"date\": match.group(1),\n                \"time\": match.group(2),\n                \"meeting_room\": match.group(3)\n            }\n        }\n    elif match := re.match(r\"show my expense balance for employee (\\d+)\\.\", query):\n        return {\n            \"name\": \"get_expense_balance\",\n            \"arguments\": {\"employee_id\": int(match.group(1))}\n        }\n    elif match := re.match(r\"calculate performance bonus for employee (\\d+) for (\\d{4})\\.\", query):\n        return {\n            \"name\": \"calculate_performance_bonus\",\n            \"arguments\": {\n                \"employee_id\": int(match.group(1)),\n                \"current_year\": int(match.group(2))\n            }\n        }\n    elif match := re.match(r\"report office issue (\\d+) for the (\\w+) department\\.\", query):\n        return {\n            \"name\": \"report_office_issue\",\n            \"arguments\": {\n                \"issue_code\": int(match.group(1)),\n                \"department\": match.group(2)\n            }\n        }\n    return {}\n\n@app.get(\"/execute\")\nasync def execute_query(q: str):\n    # Extract the function name and arguments from the query\n    result = extract_parameters(q)\n    \n    if not result:\n        return JSONResponse(content={\"error\": \"No matching function found for the query\"}, status_code=400)\n    \n    # Call the respective function\n    func_name = result[\"name\"]\n    arguments = result[\"arguments\"]\n    \n    # Call the function dynamically based on func_name\n    if func_name == \"get_ticket_status\":\n        response = get_ticket_status(**arguments)\n    elif func_name == \"schedule_meeting\":\n        response = schedule_meeting(**arguments)\n    elif func_name == \"get_expense_balance\":\n        response = get_expense_balance(**arguments)\n    elif func_name == \"calculate_performance_bonus\":\n        response = calculate_performance_bonus(**arguments)\n    elif func_name == \"report_office_issue\":\n        response = report_office_issue(**arguments)\n    \n    # Return the response in the requested format\n    return JSONResponse(content={\"name\": func_name, \"arguments\": arguments}, status_code=200)",
+    "url": "https://discourse.onlinedegree.iitm.ac.in/t/doubts-in-q7-q8/166357",
+    "title": "Doubts in Q7, Q8"
+  },
+  {
+    "text": "I missed a week\u2019s worth of learning, and I\u2019d like to catch up by attempting the assignments after going through the video tutorials. I\u2019m not asking for grades as deadline is passed, just the opportunity to complete them for the sake of learning. I would really appreciate if this can be made possible.",
+    "url": "https://discourse.onlinedegree.iitm.ac.in/t/reattempt-graded-assignment-after-deadline/166349",
+    "title": "Reattempt Graded Assignment after deadline"
+  },
+  {
+    "text": "I will be at the IIT Madras campus next Wednesday (5 Feb) from 10:30 am to 2:30 pm IST.\n\n\nI\u2019ll be at the NAC (New Academic Complex) or the NAC footsteps.\n\n\nIf anyone would like to chat - about TDS, or anything else - you\u2019re welcome.",
+    "url": "https://discourse.onlinedegree.iitm.ac.in/t/meet-with-anand-tds-faculty-wed-5-feb-10-30-am-2-30-pm/165687",
+    "title": "Meet with Anand (TDS Faculty), Wed 5 Feb, 10:30 am - 2:30 pm"
+  },
+  {
+    "text": "Hi \n@Jivraj\n & \n@carlton\n\n\nI was wondering if we can have access to the companion notebook for the application for order built on 31st Jan 2025. Where can we access this ?",
+    "url": "https://discourse.onlinedegree.iitm.ac.in/t/access-to-notebooks/166100",
+    "title": "Access to Notebooks"
+  },
+  {
+    "text": "Hello,\n\n\nI submitted my graded assignment for TDS course. But unfortunately I did not see the question in the portal asking if I have seen all questions and attended the exam. Can someone please clarify if it shall be graded still?\n\n\n@carlton\n \n@Jivraj\n\n\nimage\n1340\u00d7527 17.9 KB\n\n\nimage\n1002\u00d7560 51.4 KB",
+    "url": "https://discourse.onlinedegree.iitm.ac.in/t/graded-assignment-1-submission-not-shown/165396",
+    "title": "Graded assignment 1 - Submission not shown"
+  },
+  {
+    "text": "Is it considered best practice to create a virtual environment rather than installing packages globally, especially when working on projects that require multiple libraries? I understand that in a professional setting, we often work on multiple projects simultaneously, and developing the habit of using virtual environments now can help reinforce this practice for future projects.\n\n\nAdditionally, when managing dependencies, would it be better to install packages individually using pip or list them in a requirements.txt file? My understanding is that if a version is not specified in the requirements.txt file, it installs the latest available version, whereas specifying a version ensures a specific installation. However, I have encountered instances where a specific version failed to install, requiring me to modify the requirements.txt file and remove the version constraint. In such cases, wouldn\u2019t installing directly via pip be more practical?\n\n\nThat said, I also recognize that different projects may have unique dependency requirements. I\u2019d appreciate your insights on best practices for managing dependencies efficiently.",
+    "url": "https://discourse.onlinedegree.iitm.ac.in/t/best-practices-for-virtual-environments-and-dependency-management-in-python/165922",
+    "title": "Best Practices for Virtual Environments and Dependency Management in Python"
+  },
+  {
+    "text": "Hi All,\n\n\nThe agenda items for the live session 30/01/2025 are:\n\n\n\n\nWhat is Rest API?\n\n\nThe FAST API library\n\n\nBasic Intro to CORS\n\n\nCreating JSON schema\n\n\nFunction calling\n\n\n\n\nGMeet: \n\n\nJoin with Google Meet\n\n\nmeet.google.com/brz-ksac-evo\n\n\nKind regards,\n\nTDS Team",
+    "url": "https://discourse.onlinedegree.iitm.ac.in/t/live-session-agenda-30-01-2025/165830",
+    "title": "Live Session Agenda - 30/01/2025"
+  },
+  {
+    "text": "how to drop course i cannot see any option for the same",
+    "url": "https://discourse.onlinedegree.iitm.ac.in/t/course-drop/165746",
+    "title": "Course drop"
+  },
+  {
+    "text": "In the discussion Thread for Project 1, it was said that there will be live sessions conducted for the project, however, there hasn\u2019t been one specifically for it.\n\n\nIf there are live sessions that will be conducted, can we have some hands on tutorial for the project ?",
+    "url": "https://discourse.onlinedegree.iitm.ac.in/t/live-sessions-regarding-project-1/165593",
+    "title": "Live sessions regarding Project 1"
+  },
+  {
+    "text": "dear \n@carlton\n sir i am unable to access the course calender for tds and  also not able to get the recorded videos  of tds in my portal.kindly help  me out with this",
+    "url": "https://discourse.onlinedegree.iitm.ac.in/t/tds-jan-2025-calender-accesss-and-video-lecture-access-in-portal/163158",
+    "title": "Tds jan 2025 calender accesss and video lecture access in portal"
+  },
+  {
+    "text": "I wanted to seek clarification regarding the deadline for GA2. The latest email received today mentions the deadline as 26th January, whereas an earlier email stated 2nd February, which is also reflected on the dashboard.\n\n\nCould you please confirm the correct deadline to avoid any confusion?\n\n\nimage\n1056\u00d7289 15.4 KB",
+    "url": "https://discourse.onlinedegree.iitm.ac.in/t/ga2-deadline/165142",
+    "title": "GA2 deadline"
+  },
+  {
+    "text": "Hi Everyone,\n\n\nFor today\u2019s live session [23-01-2025] we will be giving an elaborate tutorial on using Flask framework for API creation, also we will discuss the last 3 questions of GA1.\n\nFlask is a Python Framework used for creating APIs and accessing databases. We highly encourage everyone to join this session at 8pm, as Flask is an important topic which might be useful in your projects and even ROE. Also anyone who is not enrolled in TDS, but wished to learn about Flask are also encouraged to join.\n\n\nLink: \nmeet.google.com/brz-ksac-evo\n\nTimings: 8pm - 10pm\n\n\nRegards,\n\nSaransh Saini\n\nTDS TA",
+    "url": "https://discourse.onlinedegree.iitm.ac.in/t/agenda-for-todays-live-session-flask-tutorial/164869",
+    "title": "Agenda for Today's Live Session [Flask Tutorial]"
+  },
+  {
+    "text": "I found that TDS is so much time engaging along with office work and also new comer in coding.\n\nShould i drop the course as of now?\n\nif Yes, then when will be the drop course window start?",
+    "url": "https://discourse.onlinedegree.iitm.ac.in/t/drop-course-window-for-tds/164737",
+    "title": "Drop Course window for TDS"
+  },
+  {
+    "text": "Can anyone clarify why the following error is coming in respect of answer to question 10 Graded Assignment 2                                                                                                                                                                                         Session Status                online                                                                                    Account                       23f2003853@ds.study.iitm.ac.in (Plan: Free)                                               Version                       3.19.0                                                                                    Region                        India (in)                                                                                Latency                       38ms                                                                                      Web Interface                 \nhttp://127.0.0.1:4040\n                                                                     Forwarding                    \nhttps://ed9f-14-99-254-158.ngrok-free.app\n \u2192 \nhttp://localhost:8080\n                                                                                                                                                Connections                   ttl     opn     rt1     rt5     p50     p90                                                                             1       0       0.01    0.00    0.01    0.01                                                                                                                                                                      HTTP Requests                                                                                                           -------------                                                                                                                                                                                                                                   13:03:06.158 IST POST /v1/chat/completions      502 Bad Gateway",
+    "url": "https://discourse.onlinedegree.iitm.ac.in/t/tds-assignment-week-2/164462",
+    "title": "TDS - Assignment week 2"
+  },
+  {
+    "text": "Hi all,\n\n\nAgenda for Today\u2019s(21/01/2025) session\n\n\n\n\nAPI\n\n\nVercel deployment\n\n\nGithub Actions\n\n\nDocker hub\n\n\n\n\nkind regards\n\nJivraj",
+    "url": "https://discourse.onlinedegree.iitm.ac.in/t/agenda-for-todays-21-01-2025-session/164460",
+    "title": "Agenda for Today's(21/01/2025) session"
+  },
+  {
+    "text": "I want to drop to drop this course for this term ,then also i need to submit the graded assignment or project (i will try my best to submit assignment).",
+    "url": "https://discourse.onlinedegree.iitm.ac.in/t/regarding-droping-from-tds/164291",
+    "title": "Regarding droping from TDS"
+  },
+  {
+    "text": "The knowledge required by students to do TDS has been revised during recent terms. ( Mentioned that as per industrial standards/ needs).\n\n\nAdditional programming skills are required(in addition to Python) to follow the TDS Course. That means indirectly, one should complete many courses diploma in programming before doing TDS.\n\n\nIn such a case, how to drop the course Tools In Data Science(already registered) and get it replaced with another course to save time and without incurring financial losses(as dropping a course refunds only a certain percentage of fees amount paid for the course), and do it again later in terms. It\u2019s completely IIT Madras\u2019s fault since it was mentioned in the academics site that no prerequisites were required for the course while the reality turned out to be far from promises. I want to either get the course structure for the TDS revised or get it replaced with some another course; incase of some course fee difference, I will pay the difference amount.",
+    "url": "https://discourse.onlinedegree.iitm.ac.in/t/issues-in-tds-and-replacement-with-another-course/164147",
+    "title": "Issues In TDS And Replacement with another course"
+  },
+  {
+    "text": "Despite saving multiple times, my score keeps resetting to zero. Should I refill the answers for all the questions before saving again? Could this issue also be caused by accessing the assignment from multiple devices?",
+    "url": "https://discourse.onlinedegree.iitm.ac.in/t/score-keeps-resetting-to-0/163765",
+    "title": "Score keeps resetting to 0"
+  },
+  {
+    "text": "I feel that Week 1 is packed with tutorials from diverse areas. While I understand the necessity of these tutorials, they lack immediate exercises, which makes it difficult to retain the knowledge gained. Attempting to practice everything from these tutorials leaves insufficient time for other courses.\n\n\nAdditionally, while solving GAs helps reinforce learning, they don\u2019t seem to cover all the concepts from the tutorials.\n\n\nI would want to know whether the learning from GAs is sufficient or if there\u2019s a better way to balance this.\n\n\nPS - To address this at a management level, my suggestion would be to introduce AQs  or  mini exercises after each module. Alternatively, we could increase questions in GAs to cover more concepts, though the first approach might be more effective. Another improvement could be to reduce the diversity of content in a single week to make it more manageable.",
+    "url": "https://discourse.onlinedegree.iitm.ac.in/t/need-clarity/164205",
+    "title": "Need Clarity"
+  },
+  {
+    "text": "Hi Team,\n\n\nI understand there have been 2 TA-led sessions on 16th and 17th Jan, however the recordings were not found in the playlist - \nhttps://www.youtube.com/playlist?list=PL_h5u1jMeBCl1BquBhgunA4t08XAxsA-C\n\n\nPlease help if these were recorded or if the link is wrong. Thanks in advance!",
+    "url": "https://discourse.onlinedegree.iitm.ac.in/t/ta-sessions-youtube-links/164089",
+    "title": "TA Sessions youtube links"
+  },
+  {
+    "text": "I am an international student with none of my peers here in this course. It would be amazing to work with other people taking this course this term and doing the assignments together.\n\n\na few brains are better than one brain",
+    "url": "https://discourse.onlinedegree.iitm.ac.in/t/need-friends/163381",
+    "title": "Need friends"
+  },
+  {
+    "text": "I recently explored the details of the extra credit project and found the problem statement and its clever framing both fascinating and challenging. While I\u2019m eager to take it on, I feel my current skill set might fall short of the project\u2019s demands. I\u2019m committed to pushing my boundaries and would greatly appreciate your guidance on topics or resources that could help me prepare more effectively during my free time.\n\n\nI want to ensure I can contribute something meaningful and engaging, even if the outcome isn\u2019t perfect. If there are any recommended readings, practice problems, or areas of focus that you believe would provide a solid foundation for approaching this project, I would be very grateful for your suggestions.\n\n\nThank you for considering my request. I\u2019m genuinely excited by the challenge and hope to make the most of this opportunity to learn and grow under your guidance.\n\n\n@s.anand\n\n\nChatGPT can make mistakes. Check important info.",
+    "url": "https://discourse.onlinedegree.iitm.ac.in/t/regarding-extra-material-information-resources-for-the-upcoming-project/163241",
+    "title": "Regarding EXTRA MATERIAL/INFORMATION/RESOURCES for the upcoming project"
+  },
+  {
+    "text": "all  the answers are getting erased next day  . when i went to answer remaining questions i had to start it all over again.",
+    "url": "https://discourse.onlinedegree.iitm.ac.in/t/answers-are-not-getting-saved/163224",
+    "title": "Answers are not getting saved"
+  },
+  {
+    "text": "Can anyone forward the specified links of the books(iitm certified(logo)) or pdf\u2019s for preparation?",
+    "url": "https://discourse.onlinedegree.iitm.ac.in/t/tds-iitm-certified-books/163147",
+    "title": "TDS iitm certified books"
+  },
+  {
+    "text": "I missed the end-term exam due to an urgent emergency.\n\n\nThe grading assignment indicates I\u2019m NOT eligible for a final score. Does that mean this subject wont be considered at all for the final course card?\n\n\nCan I still take the end-term exam and be excused from submitting the assignments and projects?",
+    "url": "https://discourse.onlinedegree.iitm.ac.in/t/can-i-take-the-end-term-exam-without-submitting-assignments-if-i-missed-it-due-to-an-emergency/161072",
+    "title": "Can I take the end-term exam without submitting assignments if I missed it due to an emergency?"
+  },
+  {
+    "text": "My doubt is that \u201cWill there be any coding level questions in the ROE and the weekly graded assignments?\u201d",
+    "url": "https://discourse.onlinedegree.iitm.ac.in/t/way-of-conduction-of-exam/163144",
+    "title": "Way of conduction of exam"
+  },
+  {
+    "text": "where we can find tools in data science calendar link I cannot find it in my course tab?",
+    "url": "https://discourse.onlinedegree.iitm.ac.in/t/tds-calendar-link-not-found/162425",
+    "title": "TDS calendar link not found"
+  },
+  {
+    "text": "Dear all,\n\n\nI\u2019m thrilled to share a project inspired by my experience in the *Tools in Data Science * course: \nLLM Classroom Assignment Evaluator\n.  This is the basic prototype.\n\n\nThis tool leverages Google APIs and LLMs to automate grading and feedback for Google Classroom assignments, making evaluation faster and more insightful for educators.\n\n\nA heartfelt thanks to \n@s.anand\n, our course instructor, and TAs \n@Carlton\n and \n@Jivraj\n, whose guidance on LLM function calling and real-world applications made this project possible.\n\n\nI\u2019d love to invite contributions from this amazing community to:\n\n\n\n\nExpand functionality and evaluation models.\n\n\nFix bugs and optimize workflows.\n\n\nImprove documentation for broader accessibility.\n\n\n\n\nThe \nGitHub repository\n is open for forks, pull requests, and ideas. I look forward to collaborating with you all!\n\n\nUpdate: here is a video explaining the process - \nhttps://youtu.be/xa4zhP-S3NE?feature=shared\n\nBest regards,\n\nAvinash Shrivastava",
+    "url": "https://discourse.onlinedegree.iitm.ac.in/t/contribute-to-my-open-source-llm-classroom-assignment-evaluator/161214",
+    "title": "Contribute to My Open-Source LLM Classroom Assignment Evaluator"
+  }
+]

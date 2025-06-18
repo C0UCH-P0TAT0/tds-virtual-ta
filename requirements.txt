@@ -1,6 +1,19 @@
 fastapi
-uvicorn
-sentence-transformers
-faiss-cpu
+uvicorn[standard]
+pydantic
 python-multipart
-pillow
+Pillow
+
+# Core NLP stack
+sentence-transformers>=2.2.2
+faiss-cpu
+transformers==4.40.1  # or 4.36.2 — latest before tokenizers became a problem
+torch>=1.13.0
+
+# For CORS (frontend requests)
+aiohttp
+
+# Avoid build issues on Windows
+tokenizers!=0.13.3
+scikit-learn
+
