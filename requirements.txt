@@ -7,12 +7,14 @@ Pillow
 # Core NLP stack
 sentence-transformers>=2.2.2
 faiss-cpu
-transformers==4.40.1  # or 4.36.2 — latest before tokenizers became a problem
-torch>=1.13.0
+transformers==4.40.1
+torch>=1.13.0,<2.0  # Keep it under 2.0 to avoid large binaries and LFS issues
 
-# For CORS (frontend requests)
+# For CORS and async requests
 aiohttp
 
-# Avoid build issues on Windows
+# ML utilities
 scikit-learn
 
+# 👇 Optional, but avoids tokenizers build issues
+tokenizers==0.13.2
