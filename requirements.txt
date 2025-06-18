@@ -14,6 +14,6 @@ torch>=1.13.0
 aiohttp
 
 # Avoid build issues on Windows
-tokenizers!=0.13.3
+tokenizers=0.13.3
 scikit-learn
 
