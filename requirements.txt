@@ -1,5 +1,3 @@
---only-binary=:all:
-
 fastapi
 uvicorn[standard]
 pydantic
