@@ -8,7 +8,7 @@ sentence-transformers>=2.2.2
 faiss-cpu
 transformers==4.40.1
 torch==2.5.0  # 👈 compatible and available
-tokenizers==0.13.2
+tokenizers
 
 aiohttp
 scikit-learn
