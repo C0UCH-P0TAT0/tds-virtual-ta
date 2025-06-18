@@ -4,17 +4,11 @@ pydantic
 python-multipart
 Pillow
 
-# Core NLP stack
 sentence-transformers>=2.2.2
 faiss-cpu
 transformers==4.40.1
-torch>=1.13.0,<2.0  # Keep it under 2.0 to avoid large binaries and LFS issues
-
-# For CORS and async requests
-aiohttp
-
-# ML utilities
-scikit-learn
-
-# 👇 Optional, but avoids tokenizers build issues
+torch==2.5.0  # 👈 compatible and available
 tokenizers==0.13.2
+
+aiohttp
+scikit-learn
